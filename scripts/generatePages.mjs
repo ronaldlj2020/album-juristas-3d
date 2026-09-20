@@ -7,13 +7,12 @@ const juristas = JSON.parse(readFileSync(join(__dirname, '../data/juristas/juris
 
 // Colores de lapicero
 const BLUE_PEN = "#0044CC";
-const RED_PEN = "#CC0000";
 const BLACK_PEN = "#1a1a2e";
 
 const pages = [];
 
 for (const j of juristas) {
-    // PÁGINA IZQUIERDA: Retrato + frase + lugar + fechas + nombre
+    // PÁGINA IZQUIERDA: Retrato + frase + nombre + lugar + fechas
     pages.push({
         label: j.nombre,
         photos: [
@@ -22,7 +21,7 @@ for (const j of juristas) {
                 x: 0.5,
                 y: 0.42,
                 rotation: 0,
-                scale: 0.30,
+                scale: 0.28,
                 border: 0.02
             }
         ],
@@ -30,9 +29,9 @@ for (const j of juristas) {
             {
                 text: `"${j.frase}"`,
                 x: 0.5,
-                y: 0.90,
-                color: RED_PEN,
-                size: 0.035,
+                y: 0.85,
+                color: BLACK_PEN,
+                size: 0.032,
                 fontStyle: "italic",
                 fontWeight: 700,
                 align: "center",
@@ -68,7 +67,7 @@ for (const j of juristas) {
         ]
     });
 
-    // PÁGINA DERECHA: Obras (rojo), Aportes (azul/negro), Resumen (negro)
+    // PÁGINA DERECHA: Obras (negro), Aportes (azul/negro), Resumen (azul/negro)
     pages.push({
         label: j.nombre + " - Aportes",
         photos: [],
@@ -77,7 +76,7 @@ for (const j of juristas) {
                 text: "Obras principales",
                 x: 0.5,
                 y: 0.85,
-                color: RED_PEN,
+                color: BLACK_PEN,
                 size: 0.050,
                 fontWeight: 800,
                 align: "center"
@@ -86,7 +85,7 @@ for (const j of juristas) {
                 text: j.obras.join('  •  '),
                 x: 0.5,
                 y: 0.75,
-                color: RED_PEN,
+                color: BLACK_PEN,
                 size: 0.030,
                 fontWeight: 600,
                 align: "center",
@@ -136,5 +135,5 @@ for (const j of juristas) {
 
 writeFileSync(join(__dirname, '../src/objects/bookPages.json'), JSON.stringify(pages, null, 4));
 console.log(`Generado bookPages.json con ${pages.length} páginas (${juristas.length} juristas)`);
-console.log('Diseño: frase arriba, foto centro, nombre abajo, lugar y fechas debajo');
-console.log('Página derecha: obras (rojo), aportes (azul/negro), resumen (azul/negro)');
+console.log('Diseño actualizado: frase negro arriba, nombre azul abajo, lugar y fechas negro');
+console.log('Página derecha: obras negro, aportes azul/negro, resumen azul/negro');

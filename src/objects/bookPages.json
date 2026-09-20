@@ -7,7 +7,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -15,9 +15,9 @@
             {
                 "text": "\"La justicia es la reina de las virtudes.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -60,7 +60,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -69,7 +69,7 @@
                 "text": "De re publica  •  De legibus  •  Catilinarias  •  Filípicas",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -123,7 +123,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -131,9 +131,9 @@
             {
                 "text": "\"Dar a cada uno lo suyo.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -176,7 +176,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -185,7 +185,7 @@
                 "text": "Fragmentos en el Digesto  •  Comentarios al derecho pretoriano  •  Comentarios al derecho civil",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -239,7 +239,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -247,9 +247,9 @@
             {
                 "text": "\"Para que no se pueda abusar del poder, es preciso que el poder detenga al poder.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -292,7 +292,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -301,7 +301,7 @@
                 "text": "El espíritu de las leyes  •  Cartas persas  •  Consideraciones sobre las causas de la grandeza de los romanos",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -355,7 +355,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -363,9 +363,9 @@
             {
                 "text": "\"La libertad no consiste en hacer lo que se quiere, sino en poder hacer lo que se debe.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -408,7 +408,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -417,7 +417,7 @@
                 "text": "La democracia en América  •  El Antiguo Régimen y la Revolución  •  Del sistema penitenciario en los Estados Unidos",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -471,7 +471,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -479,9 +479,9 @@
             {
                 "text": "\"El derecho no se hace, sino que crece con el pueblo.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -524,7 +524,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -533,7 +533,7 @@
                 "text": "De la vocación de nuestro tiempo para la legislación y la ciencia del derecho  •  Sistema del derecho romano actual  •  Derecho de la posesión",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -587,7 +587,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -595,9 +595,9 @@
             {
                 "text": "\"El proceso es el instrumento de la justicia.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -640,7 +640,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -649,7 +649,7 @@
                 "text": "Principii di diritto processuale civile  •  Instituciones de derecho procesal civil  •  Ensayos de derecho procesal civil",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -703,7 +703,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -711,9 +711,9 @@
             {
                 "text": "\"El derecho es una ordenación normativa del comportamiento humano.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -756,7 +756,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -765,7 +765,7 @@
                 "text": "Teoría pura del derecho  •  Teoría general del Estado  •  Teoría general del derecho y del Estado",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -819,7 +819,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -827,9 +827,9 @@
             {
                 "text": "\"La autoridad del jurista está en la prudencia de su razón.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -872,7 +872,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -881,7 +881,7 @@
                 "text": "Quaestiones  •  Responsa  •  Definitiones",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -935,7 +935,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -943,9 +943,9 @@
             {
                 "text": "\"Todo el derecho se refiere a personas, cosas y acciones.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -988,7 +988,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -997,7 +997,7 @@
                 "text": "Instituciones  •  Comentarios al edicto provincial",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -1051,7 +1051,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -1059,9 +1059,9 @@
             {
                 "text": "\"El derecho es una lucha.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -1104,7 +1104,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -1113,7 +1113,7 @@
                 "text": "El espíritu del derecho romano  •  La lucha por el derecho  •  El fin en el derecho",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -1167,7 +1167,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -1175,9 +1175,9 @@
             {
                 "text": "\"El proceso es una forma civilizada de resolver el conflicto.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -1220,7 +1220,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -1229,7 +1229,7 @@
                 "text": "Sistema de derecho procesal civil  •  Instituciones del proceso civil  •  Lecciones sobre el proceso penal",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -1283,7 +1283,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -1291,9 +1291,9 @@
             {
                 "text": "\"La justicia necesita jueces independientes y abogados libres.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -1336,7 +1336,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -1345,7 +1345,7 @@
                 "text": "Elogio de los jueces escrito por un abogado  •  Instituciones de derecho procesal civil  •  Demasiados abogados",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -1399,7 +1399,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -1407,9 +1407,9 @@
             {
                 "text": "\"El problema de nuestro tiempo no es fundamentar los derechos, sino protegerlos.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -1452,7 +1452,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -1461,7 +1461,7 @@
                 "text": "Teoría general del derecho  •  El tiempo de los derechos  •  Liberalismo y democracia",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -1515,7 +1515,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -1523,9 +1523,9 @@
             {
                 "text": "\"El derecho combina reglas primarias y secundarias.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -1568,7 +1568,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -1577,7 +1577,7 @@
                 "text": "El concepto de derecho  •  Derecho, libertad y moralidad  •  Castigo y responsabilidad",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -1631,7 +1631,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -1639,9 +1639,9 @@
             {
                 "text": "\"El derecho es una práctica interpretativa.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -1684,7 +1684,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -1693,7 +1693,7 @@
                 "text": "Los derechos en serio  •  El imperio de la justicia  •  Justicia para erizos",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -1747,7 +1747,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -1755,9 +1755,9 @@
             {
                 "text": "\"Los principios son mandatos de optimización.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -1800,7 +1800,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -1809,7 +1809,7 @@
                 "text": "Teoría de los derechos fundamentales  •  Teoría de la argumentación jurídica  •  El concepto y la validez del derecho",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -1863,7 +1863,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -1871,9 +1871,9 @@
             {
                 "text": "\"El derecho existe para limitar el poder y garantizar la libertad.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -1916,7 +1916,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -1925,7 +1925,7 @@
                 "text": "Derecho y razón  •  Principia iuris  •  Derechos y garantías",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -1979,7 +1979,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -1987,9 +1987,9 @@
             {
                 "text": "\"Toda pena que no derive de la absoluta necesidad es tiránica.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -2032,7 +2032,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -2041,7 +2041,7 @@
                 "text": "De los delitos y de las penas",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -2095,7 +2095,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -2103,9 +2103,9 @@
             {
                 "text": "\"La mayor felicidad para el mayor número.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -2148,7 +2148,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -2157,7 +2157,7 @@
                 "text": "Introducción a los principios de la moral y la legislación  •  Tratados de legislación civil y penal  •  Panóptico",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -2211,7 +2211,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -2219,9 +2219,9 @@
             {
                 "text": "\"La vida del derecho no ha sido la lógica, sino la experiencia.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -2264,7 +2264,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -2273,7 +2273,7 @@
                 "text": "The Common Law  •  Votos judiciales en la Corte Suprema de Estados Unidos  •  Ensayos jurídicos",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -2327,7 +2327,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -2335,9 +2335,9 @@
             {
                 "text": "\"El derecho se transforma constantemente; si no sigues sus pasos, serás cada día un poco menos abogado.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -2380,7 +2380,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -2389,7 +2389,7 @@
                 "text": "Fundamentos del derecho procesal civil  •  Estudios de derecho procesal civil  •  Los mandamientos del abogado",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -2443,7 +2443,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -2451,9 +2451,9 @@
             {
                 "text": "\"La democracia es un procedimiento moral de deliberación pública.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -2496,7 +2496,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -2505,7 +2505,7 @@
                 "text": "Introducción al análisis del derecho  •  Ética y derechos humanos  •  La constitución de la democracia deliberativa",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -2559,7 +2559,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -2567,9 +2567,9 @@
             {
                 "text": "\"La Constitución requiere garantías para hacerse efectiva.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -2612,7 +2612,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -2621,7 +2621,7 @@
                 "text": "Ensayos sobre el derecho de amparo  •  Derecho procesal constitucional  •  La protección procesal de los derechos humanos",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -2675,7 +2675,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -2683,9 +2683,9 @@
             {
                 "text": "\"La codificación ordena la vida civil de una república.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -2728,7 +2728,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -2737,7 +2737,7 @@
                 "text": "Código Civil de Chile  •  Principios de derecho internacional  •  Gramática de la lengua castellana",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -2791,7 +2791,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -2799,9 +2799,9 @@
             {
                 "text": "\"El poder punitivo debe ser limitado por el derecho.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -2844,7 +2844,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -2853,7 +2853,7 @@
                 "text": "Derecho penal  •  Manual de derecho penal  •  En busca de las penas perdidas",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -2907,7 +2907,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -2915,9 +2915,9 @@
             {
                 "text": "\"Argumentar es dar razones para justificar una decisión.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -2960,7 +2960,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -2969,7 +2969,7 @@
                 "text": "Las razones del derecho  •  El derecho como argumentación  •  Curso de argumentación jurídica",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
@@ -3023,7 +3023,7 @@
                 "x": 0.5,
                 "y": 0.42,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -3031,9 +3031,9 @@
             {
                 "text": "\"La injusticia extrema no es derecho.\"",
                 "x": 0.5,
-                "y": 0.9,
-                "color": "#CC0000",
-                "size": 0.035,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -3076,7 +3076,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.85,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
@@ -3085,7 +3085,7 @@
                 "text": "Filosofía del derecho  •  Introducción a la ciencia del derecho  •  Leyes que no son derecho y derecho por encima de las leyes",
                 "x": 0.5,
                 "y": 0.75,
-                "color": "#CC0000",
+                "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
