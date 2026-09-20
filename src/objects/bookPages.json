@@ -71,7 +71,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -90,7 +90,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -109,7 +109,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -187,7 +187,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -206,7 +206,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -225,7 +225,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -303,7 +303,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -322,7 +322,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -341,7 +341,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -419,7 +419,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -438,7 +438,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -457,7 +457,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -535,7 +535,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -554,7 +554,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -573,7 +573,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -651,7 +651,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -670,7 +670,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -689,7 +689,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -767,7 +767,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -786,7 +786,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -805,7 +805,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -883,7 +883,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -902,7 +902,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -921,7 +921,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -999,7 +999,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -1018,7 +1018,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -1037,7 +1037,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -1115,7 +1115,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -1134,7 +1134,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -1153,7 +1153,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -1231,7 +1231,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -1250,7 +1250,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -1269,7 +1269,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -1347,7 +1347,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -1366,7 +1366,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -1385,7 +1385,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -1463,7 +1463,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -1482,7 +1482,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -1501,7 +1501,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -1579,7 +1579,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -1598,7 +1598,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -1617,7 +1617,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -1695,7 +1695,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -1714,7 +1714,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -1733,7 +1733,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -1811,7 +1811,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -1830,7 +1830,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -1844,12 +1844,12 @@
                 "align": "center"
             },
             {
-                "text": "Jurista alemán reconocido por su teoría de los derechos fundamentales y su análisis de la argumentación jurídica. Propuso entender los principios como mandatos de optimización y desarrolló una influyente teoría de la ponderación y la proporcionalidad. Falleció el 5 de septiembre de 2026.",
+                "text": "Jurista alemán, teoría de los derechos fundamentales. Propuso los principios como mandatos de optimización.",
                 "x": 0.5,
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -1927,7 +1927,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -1946,7 +1946,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -1965,7 +1965,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -2043,7 +2043,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -2062,7 +2062,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -2081,7 +2081,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -2159,7 +2159,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -2178,7 +2178,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -2197,7 +2197,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -2275,7 +2275,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -2294,7 +2294,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -2313,7 +2313,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -2391,7 +2391,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -2410,7 +2410,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -2429,7 +2429,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -2507,7 +2507,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -2526,7 +2526,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -2545,7 +2545,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -2623,7 +2623,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -2642,7 +2642,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -2661,7 +2661,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -2739,7 +2739,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -2758,7 +2758,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -2777,7 +2777,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -2855,7 +2855,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -2874,7 +2874,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -2893,7 +2893,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -2971,7 +2971,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -2990,7 +2990,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -3009,7 +3009,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
@@ -3087,7 +3087,7 @@
                 "y": 0.8,
                 "color": "#1a1a2e",
                 "size": 0.03,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -3106,7 +3106,7 @@
                 "y": 0.55,
                 "color": "#1a1a2e",
                 "size": 0.028,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             },
@@ -3125,7 +3125,7 @@
                 "y": 0.3,
                 "color": "#1a1a2e",
                 "size": 0.026,
-                "fontWeight": 600,
+                "fontWeight": 800,
                 "align": "center",
                 "maxWidth": 0.55
             }
