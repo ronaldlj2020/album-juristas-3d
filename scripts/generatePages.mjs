@@ -74,7 +74,7 @@ for (const j of juristas) {
                 x: 0.5,
                 y: 0.91,
                 color: BLUE_PEN,
-                size: 0.048,
+                size: 0.047,
                 fontWeight: 800,
                 align: "center"
             },
@@ -93,7 +93,7 @@ for (const j of juristas) {
                 x: 0.5,
                 y: 0.67,
                 color: BLUE_PEN,
-                size: 0.045,
+                size: 0.044,
                 fontWeight: 800,
                 align: "center"
             },
@@ -112,7 +112,7 @@ for (const j of juristas) {
                 x: 0.5,
                 y: 0.38,
                 color: BLUE_PEN,
-                size: 0.043,
+                size: 0.042,
                 fontWeight: 800,
                 align: "center"
             },
