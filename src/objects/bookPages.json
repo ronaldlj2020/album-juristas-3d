@@ -15,7 +15,7 @@
             {
                 "text": "\"La justicia es la reina de las virtudes.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -26,7 +26,7 @@
             {
                 "text": "106 a.C. - 43 a.C.",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -35,7 +35,7 @@
             {
                 "text": "Marco Tulio Cicerón",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -44,7 +44,7 @@
             {
                 "text": "Arpino, República Romana",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -131,7 +131,7 @@
             {
                 "text": "\"Dar a cada uno lo suyo.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -142,7 +142,7 @@
             {
                 "text": "c. 170 - 228",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -151,7 +151,7 @@
             {
                 "text": "Ulpiano",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -160,7 +160,7 @@
             {
                 "text": "Tiro, provincia de Fenicia, Imperio Romano",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -247,7 +247,7 @@
             {
                 "text": "\"Para que no se pueda abusar del poder, es preciso que el poder detenga al poder.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -258,7 +258,7 @@
             {
                 "text": "1689 - 1755",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -267,7 +267,7 @@
             {
                 "text": "Montesquieu",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -276,7 +276,7 @@
             {
                 "text": "La Brède, Francia",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -363,7 +363,7 @@
             {
                 "text": "\"La libertad no consiste en hacer lo que se quiere, sino en poder hacer lo que se debe.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -374,7 +374,7 @@
             {
                 "text": "1805 - 1859",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -383,7 +383,7 @@
             {
                 "text": "Alexis de Tocqueville",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -392,7 +392,7 @@
             {
                 "text": "París, Francia",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -479,7 +479,7 @@
             {
                 "text": "\"El derecho no se hace, sino que crece con el pueblo.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -490,7 +490,7 @@
             {
                 "text": "1779 - 1861",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -499,7 +499,7 @@
             {
                 "text": "Friedrich Karl von Savigny",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -508,7 +508,7 @@
             {
                 "text": "Fráncfort del Meno, Alemania",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -595,7 +595,7 @@
             {
                 "text": "\"El proceso es el instrumento de la justicia.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -606,7 +606,7 @@
             {
                 "text": "1872 - 1937",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -615,7 +615,7 @@
             {
                 "text": "Giuseppe Chiovenda",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -624,7 +624,7 @@
             {
                 "text": "Premosello, Italia",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -711,7 +711,7 @@
             {
                 "text": "\"El derecho es una ordenación normativa del comportamiento humano.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -722,7 +722,7 @@
             {
                 "text": "1881 - 1973",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -731,7 +731,7 @@
             {
                 "text": "Hans Kelsen",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -740,7 +740,7 @@
             {
                 "text": "Praga, Imperio austrohúngaro",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -827,7 +827,7 @@
             {
                 "text": "\"La autoridad del jurista está en la prudencia de su razón.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -838,7 +838,7 @@
             {
                 "text": "c. 142 - 212",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -847,7 +847,7 @@
             {
                 "text": "Papiniano",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -856,7 +856,7 @@
             {
                 "text": "Imperio Romano",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -943,7 +943,7 @@
             {
                 "text": "\"Todo el derecho se refiere a personas, cosas y acciones.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -954,7 +954,7 @@
             {
                 "text": "siglo II d.C.",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -963,7 +963,7 @@
             {
                 "text": "Gayo",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -972,7 +972,7 @@
             {
                 "text": "Imperio Romano",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -1059,7 +1059,7 @@
             {
                 "text": "\"El derecho es una lucha.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -1070,7 +1070,7 @@
             {
                 "text": "1818 - 1892",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -1079,7 +1079,7 @@
             {
                 "text": "Rudolf von Ihering",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -1088,7 +1088,7 @@
             {
                 "text": "Aurich, Alemania",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -1175,7 +1175,7 @@
             {
                 "text": "\"El proceso es una forma civilizada de resolver el conflicto.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -1186,7 +1186,7 @@
             {
                 "text": "1879 - 1965",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -1195,7 +1195,7 @@
             {
                 "text": "Francesco Carnelutti",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -1204,7 +1204,7 @@
             {
                 "text": "Udine, Italia",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -1291,7 +1291,7 @@
             {
                 "text": "\"La justicia necesita jueces independientes y abogados libres.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -1302,7 +1302,7 @@
             {
                 "text": "1889 - 1956",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -1311,7 +1311,7 @@
             {
                 "text": "Piero Calamandrei",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -1320,7 +1320,7 @@
             {
                 "text": "Florencia, Italia",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -1407,7 +1407,7 @@
             {
                 "text": "\"El problema de nuestro tiempo no es fundamentar los derechos, sino protegerlos.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -1418,7 +1418,7 @@
             {
                 "text": "1909 - 2004",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -1427,7 +1427,7 @@
             {
                 "text": "Norberto Bobbio",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -1436,7 +1436,7 @@
             {
                 "text": "Turín, Italia",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -1523,7 +1523,7 @@
             {
                 "text": "\"El derecho combina reglas primarias y secundarias.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -1534,7 +1534,7 @@
             {
                 "text": "1907 - 1992",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -1543,7 +1543,7 @@
             {
                 "text": "H. L. A. Hart",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -1552,7 +1552,7 @@
             {
                 "text": "Harrogate, Reino Unido",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -1639,7 +1639,7 @@
             {
                 "text": "\"El derecho es una práctica interpretativa.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -1650,7 +1650,7 @@
             {
                 "text": "1931 - 2013",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -1659,7 +1659,7 @@
             {
                 "text": "Ronald Dworkin",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -1668,7 +1668,7 @@
             {
                 "text": "Worcester, Estados Unidos",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -1755,7 +1755,7 @@
             {
                 "text": "\"Los principios son mandatos de optimización.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -1766,7 +1766,7 @@
             {
                 "text": "n. 1945",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -1775,7 +1775,7 @@
             {
                 "text": "Robert Alexy",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -1784,7 +1784,7 @@
             {
                 "text": "Oldenburg, Alemania",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -1871,7 +1871,7 @@
             {
                 "text": "\"El derecho existe para limitar el poder y garantizar la libertad.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -1882,7 +1882,7 @@
             {
                 "text": "n. 1940",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -1891,7 +1891,7 @@
             {
                 "text": "Luigi Ferrajoli",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -1900,7 +1900,7 @@
             {
                 "text": "Florencia, Italia",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -1987,7 +1987,7 @@
             {
                 "text": "\"Toda pena que no derive de la absoluta necesidad es tiránica.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -1998,7 +1998,7 @@
             {
                 "text": "1738 - 1794",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -2007,7 +2007,7 @@
             {
                 "text": "Cesare Beccaria",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -2016,7 +2016,7 @@
             {
                 "text": "Milán, Italia",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -2103,7 +2103,7 @@
             {
                 "text": "\"La mayor felicidad para el mayor número.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -2114,7 +2114,7 @@
             {
                 "text": "1748 - 1832",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -2123,7 +2123,7 @@
             {
                 "text": "Jeremy Bentham",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -2132,7 +2132,7 @@
             {
                 "text": "Londres, Reino Unido",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -2219,7 +2219,7 @@
             {
                 "text": "\"La vida del derecho no ha sido la lógica, sino la experiencia.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -2230,7 +2230,7 @@
             {
                 "text": "1841 - 1935",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -2239,7 +2239,7 @@
             {
                 "text": "Oliver Wendell Holmes Jr.",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -2248,7 +2248,7 @@
             {
                 "text": "Boston, Estados Unidos",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -2335,7 +2335,7 @@
             {
                 "text": "\"El derecho se transforma constantemente; si no sigues sus pasos, serás cada día un poco menos abogado.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -2346,7 +2346,7 @@
             {
                 "text": "1904 - 1956",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -2355,7 +2355,7 @@
             {
                 "text": "Eduardo J. Couture",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -2364,7 +2364,7 @@
             {
                 "text": "Montevideo, Uruguay",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -2451,7 +2451,7 @@
             {
                 "text": "\"La democracia es un procedimiento moral de deliberación pública.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -2462,7 +2462,7 @@
             {
                 "text": "1943 - 1993",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -2471,7 +2471,7 @@
             {
                 "text": "Carlos Santiago Nino",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -2480,7 +2480,7 @@
             {
                 "text": "Buenos Aires, Argentina",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -2567,7 +2567,7 @@
             {
                 "text": "\"La Constitución requiere garantías para hacerse efectiva.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -2578,7 +2578,7 @@
             {
                 "text": "1924 - 2021",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -2587,7 +2587,7 @@
             {
                 "text": "Héctor Fix-Zamudio",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -2596,7 +2596,7 @@
             {
                 "text": "Ciudad de México, México",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -2683,7 +2683,7 @@
             {
                 "text": "\"La codificación ordena la vida civil de una república.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -2694,7 +2694,7 @@
             {
                 "text": "1781 - 1865",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -2703,7 +2703,7 @@
             {
                 "text": "Andrés Bello",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -2712,7 +2712,7 @@
             {
                 "text": "Caracas, Venezuela / Santiago de Chile",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -2799,7 +2799,7 @@
             {
                 "text": "\"El poder punitivo debe ser limitado por el derecho.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -2810,7 +2810,7 @@
             {
                 "text": "n. 1940",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -2819,7 +2819,7 @@
             {
                 "text": "Raúl Zaffaroni",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -2828,7 +2828,7 @@
             {
                 "text": "Buenos Aires, Argentina",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -2915,7 +2915,7 @@
             {
                 "text": "\"Argumentar es dar razones para justificar una decisión.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -2926,7 +2926,7 @@
             {
                 "text": "n. 1951",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -2935,7 +2935,7 @@
             {
                 "text": "Manuel Atienza",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -2944,7 +2944,7 @@
             {
                 "text": "Oviedo, España",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
@@ -3031,7 +3031,7 @@
             {
                 "text": "\"La injusticia extrema no es derecho.\"",
                 "x": 0.5,
-                "y": 0.9,
+                "y": 0.92,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -3042,7 +3042,7 @@
             {
                 "text": "1878 - 1949",
                 "x": 0.5,
-                "y": 0.84,
+                "y": 0.86,
                 "color": "#1a1a2e",
                 "size": 0.026,
                 "fontWeight": 600,
@@ -3051,7 +3051,7 @@
             {
                 "text": "Gustav Radbruch",
                 "x": 0.5,
-                "y": 0.22,
+                "y": 0.24,
                 "color": "#0044CC",
                 "size": 0.065,
                 "fontWeight": 800,
@@ -3060,7 +3060,7 @@
             {
                 "text": "Lübeck, Alemania",
                 "x": 0.5,
-                "y": 0.16,
+                "y": 0.18,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontWeight": 600,
