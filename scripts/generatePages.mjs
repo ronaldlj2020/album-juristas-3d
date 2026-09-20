@@ -6,128 +6,135 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const juristas = JSON.parse(readFileSync(join(__dirname, '../data/juristas/juristas.json'), 'utf8'));
 
 // Colores de lapicero
-const BLUE_PEN = "#0044CC";      // Azul lapicero
-const RED_PEN = "#CC0000";       // Rojo lapicero
-const BLACK_PEN = "#1a1a2e";     // Negro lapicero
+const BLUE_PEN = "#0044CC";
+const RED_PEN = "#CC0000";
+const BLACK_PEN = "#1a1a2e";
 
 const pages = [];
 
 for (const j of juristas) {
-    // PÁGINA IZQUIERDA: Retrato + frase
+    // PÁGINA IZQUIERDA: Retrato + frase + lugar + fechas + nombre
     pages.push({
         label: j.nombre,
         photos: [
             {
-                src: `${j.id}.png`,
+                src: `./album/juristas/${j.imagen}`,
                 x: 0.5,
-                y: 0.45,
+                y: 0.42,
                 rotation: 0,
-                scale: 0.28,
+                scale: 0.30,
                 border: 0.02
             }
         ],
         texts: [
             {
-                text: j.nombre,
-                x: 0.5,
-                y: 0.85,
-                color: BLUE_PEN,
-                size: 0.075,
-                fontWeight: 800,
-                align: "center"
-            },
-            {
-                text: j.anios,
-                x: 0.5,
-                y: 0.76,
-                color: BLACK_PEN,
-                size: 0.042,
-                fontWeight: 600,
-                align: "center"
-            },
-            {
-                text: j.origen,
-                x: 0.5,
-                y: 0.70,
-                color: BLACK_PEN,
-                size: 0.036,
-                fontWeight: 600,
-                align: "center"
-            },
-            {
                 text: `"${j.frase}"`,
                 x: 0.5,
-                y: 0.16,
+                y: 0.90,
                 color: RED_PEN,
-                size: 0.038,
+                size: 0.035,
                 fontStyle: "italic",
                 fontWeight: 700,
                 align: "center",
                 maxWidth: 0.65
+            },
+            {
+                text: j.nombre,
+                x: 0.5,
+                y: 0.12,
+                color: BLUE_PEN,
+                size: 0.065,
+                fontWeight: 800,
+                align: "center"
+            },
+            {
+                text: j.lugar,
+                x: 0.5,
+                y: 0.06,
+                color: BLACK_PEN,
+                size: 0.030,
+                fontWeight: 600,
+                align: "center"
+            },
+            {
+                text: j.fechas,
+                x: 0.5,
+                y: 0.02,
+                color: BLACK_PEN,
+                size: 0.026,
+                fontWeight: 600,
+                align: "center"
             }
         ]
     });
 
-    // PÁGINA DERECHA: Más texto, colores lapicero, más grueso
+    // PÁGINA DERECHA: Obras (rojo), Aportes (azul/negro), Resumen (negro)
     pages.push({
         label: j.nombre + " - Aportes",
         photos: [],
         texts: [
             {
-                text: "Resumen",
+                text: "Obras principales",
                 x: 0.5,
                 y: 0.85,
+                color: RED_PEN,
+                size: 0.050,
+                fontWeight: 800,
+                align: "center"
+            },
+            {
+                text: j.obras.join('  •  '),
+                x: 0.5,
+                y: 0.75,
+                color: RED_PEN,
+                size: 0.030,
+                fontWeight: 600,
+                align: "center",
+                maxWidth: 0.65
+            },
+            {
+                text: "Aportes clave",
+                x: 0.5,
+                y: 0.58,
                 color: BLUE_PEN,
-                size: 0.058,
+                size: 0.048,
+                fontWeight: 800,
+                align: "center"
+            },
+            {
+                text: j.aportes.join('  •  '),
+                x: 0.5,
+                y: 0.46,
+                color: BLACK_PEN,
+                size: 0.030,
+                fontWeight: 600,
+                align: "center",
+                maxWidth: 0.65
+            },
+            {
+                text: "Resumen",
+                x: 0.5,
+                y: 0.32,
+                color: BLUE_PEN,
+                size: 0.042,
                 fontWeight: 800,
                 align: "center"
             },
             {
                 text: j.resumen,
                 x: 0.5,
-                y: 0.70,
+                y: 0.20,
                 color: BLACK_PEN,
-                size: 0.038,
+                size: 0.028,
                 fontWeight: 600,
                 align: "center",
-                maxWidth: 0.62,
-                lineHeight: 1.35
-            },
-            {
-                text: "Aportes clave",
-                x: 0.5,
-                y: 0.52,
-                color: BLUE_PEN,
-                size: 0.050,
-                fontWeight: 800,
-                align: "center"
-            },
-            {
-                text: j.aportes,
-                x: 0.5,
-                y: 0.38,
-                color: BLACK_PEN,
-                size: 0.036,
-                fontWeight: 600,
-                align: "center",
-                maxWidth: 0.62,
-                lineHeight: 1.35
-            },
-            {
-                text: "Obras: " + j.obras.join('  •  '),
-                x: 0.5,
-                y: 0.22,
-                color: RED_PEN,
-                size: 0.030,
-                fontWeight: 700,
-                align: "center",
-                maxWidth: 0.62
+                maxWidth: 0.65
             }
         ]
     });
 }
 
 writeFileSync(join(__dirname, '../src/objects/bookPages.json'), JSON.stringify(pages, null, 4));
-console.log(`Generado bookPages.json con ${pages.length} páginas`);
-console.log('Colores lapicero: azul (#0044CC), rojo (#CC0000), negro (#1a1a2e)');
-console.log('Grosor: fontWeight 600-800, tamaños aumentados');
+console.log(`Generado bookPages.json con ${pages.length} páginas (${juristas.length} juristas)`);
+console.log('Diseño: frase arriba, foto centro, nombre abajo, lugar y fechas debajo');
+console.log('Página derecha: obras (rojo), aportes (azul/negro), resumen (azul/negro)');
