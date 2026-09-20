@@ -17,7 +17,7 @@ for (const j of juristas) {
             {
                 src: j.imagen,
                 x: 0.5,
-                y: 0.42,
+                y: 0.50,
                 rotation: 0,
                 scale: 0.38,
                 border: 0.02

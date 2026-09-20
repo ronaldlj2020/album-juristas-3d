@@ -5,7 +5,7 @@
             {
                 "src": "juristas/01_marco_tulio_ciceron.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -121,7 +121,7 @@
             {
                 "src": "juristas/02_ulpiano.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -237,7 +237,7 @@
             {
                 "src": "juristas/03_montesquieu.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -353,7 +353,7 @@
             {
                 "src": "juristas/04_alexis_de_tocqueville.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -469,7 +469,7 @@
             {
                 "src": "juristas/05_friedrich_karl_von_savigny.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -585,7 +585,7 @@
             {
                 "src": "juristas/06_giuseppe_chiovenda.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -701,7 +701,7 @@
             {
                 "src": "juristas/07_hans_kelsen.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -817,7 +817,7 @@
             {
                 "src": "juristas/08_papiniano.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -933,7 +933,7 @@
             {
                 "src": "juristas/09_gayo.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -1049,7 +1049,7 @@
             {
                 "src": "juristas/10_rudolf_von_ihering.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -1165,7 +1165,7 @@
             {
                 "src": "juristas/11_francesco_carnelutti.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -1281,7 +1281,7 @@
             {
                 "src": "juristas/12_piero_calamandrei.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -1397,7 +1397,7 @@
             {
                 "src": "juristas/13_norberto_bobbio.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -1513,7 +1513,7 @@
             {
                 "src": "juristas/14_hla_hart.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -1629,7 +1629,7 @@
             {
                 "src": "juristas/15_ronald_dworkin.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -1745,7 +1745,7 @@
             {
                 "src": "juristas/16_robert_alexy.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -1861,7 +1861,7 @@
             {
                 "src": "juristas/17_luigi_ferrajoli.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -1977,7 +1977,7 @@
             {
                 "src": "juristas/18_cesare_beccaria.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -2093,7 +2093,7 @@
             {
                 "src": "juristas/19_jeremy_bentham.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -2209,7 +2209,7 @@
             {
                 "src": "juristas/20_oliver_wendell_holmes_jr.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -2325,7 +2325,7 @@
             {
                 "src": "juristas/21_eduardo_j_couture.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -2441,7 +2441,7 @@
             {
                 "src": "juristas/22_carlos_santiago_nino.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -2557,7 +2557,7 @@
             {
                 "src": "juristas/23_hector_fix_zamudio.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -2673,7 +2673,7 @@
             {
                 "src": "juristas/24_andres_bello.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -2789,7 +2789,7 @@
             {
                 "src": "juristas/25_raul_zaffaroni.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -2905,7 +2905,7 @@
             {
                 "src": "juristas/26_manuel_atienza.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
@@ -3021,7 +3021,7 @@
             {
                 "src": "juristas/27_gustav_radbruch.png",
                 "x": 0.5,
-                "y": 0.42,
+                "y": 0.5,
                 "rotation": 0,
                 "scale": 0.38,
                 "border": 0.02
