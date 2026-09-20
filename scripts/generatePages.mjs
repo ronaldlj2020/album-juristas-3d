@@ -12,7 +12,7 @@ const BLACK_PEN = "#1a1a2e";
 const pages = [];
 
 for (const j of juristas) {
-    // PÁGINA IZQUIERDA: Frase y fechas arriba, foto centrada, nombre y lugar abajo
+    // PÁGINA IZQUIERDA: Frase arriba, foto centrada, nombre y lugar abajo
     pages.push({
         label: j.nombre,
         photos: [
@@ -49,7 +49,7 @@ for (const j of juristas) {
             {
                 text: j.nombre,
                 x: 0.5,
-                y: 0.27,
+                y: 0.34,
                 color: BLUE_PEN,
                 size: 0.075,
                 fontWeight: 800,
@@ -58,7 +58,7 @@ for (const j of juristas) {
             {
                 text: j.lugar,
                 x: 0.5,
-                y: 0.21,
+                y: 0.28,
                 color: BLACK_PEN,
                 size: 0.040,
                 fontWeight: 600,
