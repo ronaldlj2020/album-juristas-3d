@@ -59,7 +59,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -68,9 +68,9 @@
             {
                 "text": "De re publica  •  De legibus  •  Catilinarias  •  Filípicas",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -78,7 +78,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -87,9 +87,9 @@
             {
                 "text": "Retórica jurídica occidental  •  Defensa de la República romana  •  Derecho natural  •  Oratoria forense",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -97,7 +97,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -106,9 +106,9 @@
             {
                 "text": "Político, filósofo y retórico romano. Fue cónsul en el año 63 a.C. y destacó por su defensa de la República, su dominio de la palabra pública y su influencia en la cultura jurídica occidental.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -175,7 +175,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -184,9 +184,9 @@
             {
                 "text": "Fragmentos en el Digesto  •  Comentarios al derecho pretoriano  •  Comentarios al derecho civil",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -194,7 +194,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -203,9 +203,9 @@
             {
                 "text": "Jurisprudencia romana clásica  •  Definición práctica de justicia  •  Sistematización del derecho  •  Influencia en el Digesto de Justiniano",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -213,7 +213,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -222,9 +222,9 @@
             {
                 "text": "Jurista romano fundamental para la tradición jurídica occidental. Sus formulaciones sobre justicia, prudencia y derecho influyeron decisivamente en el Digesto y en la formación posterior del derecho civil europeo.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -291,7 +291,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -300,9 +300,9 @@
             {
                 "text": "El espíritu de las leyes  •  Cartas persas  •  Consideraciones sobre las causas de la grandeza de los romanos",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -310,7 +310,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -319,9 +319,9 @@
             {
                 "text": "Separación de poderes  •  Constitucionalismo moderno  •  Límites al poder  •  Estudio comparado de leyes e instituciones",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -329,7 +329,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -338,9 +338,9 @@
             {
                 "text": "Pensador francés decisivo para el constitucionalismo moderno. Su obra El espíritu de las leyes explicó la necesidad de distribuir funciones estatales para evitar el abuso del poder.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -407,7 +407,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -416,9 +416,9 @@
             {
                 "text": "La democracia en América  •  El Antiguo Régimen y la Revolución  •  Del sistema penitenciario en los Estados Unidos",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -426,7 +426,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -435,9 +435,9 @@
             {
                 "text": "Análisis de la democracia moderna  •  Libertad e igualdad  •  Sociedad civil  •  Riesgos de la tiranía de la mayoría",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -445,7 +445,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -454,9 +454,9 @@
             {
                 "text": "Pensador político y jurídico francés, conocido por su análisis de la democracia estadounidense. Estudió las instituciones, costumbres y condiciones sociales que permiten sostener la libertad democrática.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -523,7 +523,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -532,9 +532,9 @@
             {
                 "text": "De la vocación de nuestro tiempo para la legislación y la ciencia del derecho  •  Sistema del derecho romano actual  •  Derecho de la posesión",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -542,7 +542,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -551,9 +551,9 @@
             {
                 "text": "Escuela histórica del derecho  •  Crítica a la codificación apresurada  •  Espíritu del pueblo  •  Ciencia jurídica dogmática",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -561,7 +561,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -570,9 +570,9 @@
             {
                 "text": "Jurista alemán y figura principal de la Escuela Histórica del Derecho. Sostuvo que el derecho surge de la vida histórica del pueblo y no solo de la voluntad abstracta del legislador.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -639,7 +639,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -648,9 +648,9 @@
             {
                 "text": "Principii di diritto processuale civile  •  Instituciones de derecho procesal civil  •  Ensayos de derecho procesal civil",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -658,7 +658,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -667,9 +667,9 @@
             {
                 "text": "Autonomía científica del derecho procesal  •  Acción procesal  •  Función jurisdiccional  •  Proceso civil moderno",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -677,7 +677,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -686,9 +686,9 @@
             {
                 "text": "Procesalista italiano clave para la construcción moderna del derecho procesal civil. Defendió una comprensión científica del proceso y de la acción, separándolos de una mirada puramente privatista.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -755,7 +755,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -764,9 +764,9 @@
             {
                 "text": "Teoría pura del derecho  •  Teoría general del Estado  •  Teoría general del derecho y del Estado",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -774,7 +774,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -783,9 +783,9 @@
             {
                 "text": "Positivismo jurídico  •  Norma fundamental  •  Jerarquía normativa  •  Teoría pura del derecho",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -793,7 +793,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -802,9 +802,9 @@
             {
                 "text": "Jurista y filósofo del derecho, creador de la Teoría Pura del Derecho. Buscó explicar el derecho como sistema normativo autónomo, separado de la moral, la política y la sociología.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -871,7 +871,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -880,9 +880,9 @@
             {
                 "text": "Quaestiones  •  Responsa  •  Definitiones",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -890,7 +890,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -899,9 +899,9 @@
             {
                 "text": "Jurisprudencia romana clásica  •  Responsa prudentium  •  Autoridad del jurista  •  Razonamiento casuístico",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -909,7 +909,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -918,9 +918,9 @@
             {
                 "text": "Emilio Papiniano fue uno de los más grandes juristas romanos. Su prestigio fue tan alto que siglos después sus opiniones tuvieron especial autoridad en la tradición jurídica.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -987,7 +987,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -996,9 +996,9 @@
             {
                 "text": "Instituciones  •  Comentarios al edicto provincial",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1006,7 +1006,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -1015,9 +1015,9 @@
             {
                 "text": "División sistemática del derecho  •  Enseñanza jurídica romana  •  Personas, cosas y acciones  •  Influencia en las Instituciones de Justiniano",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1025,7 +1025,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -1034,9 +1034,9 @@
             {
                 "text": "Jurista romano conocido principalmente por sus Instituciones, obra didáctica que organizó el derecho en personas, cosas y acciones.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1103,7 +1103,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -1112,9 +1112,9 @@
             {
                 "text": "El espíritu del derecho romano  •  La lucha por el derecho  •  El fin en el derecho",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1122,7 +1122,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -1131,9 +1131,9 @@
             {
                 "text": "Finalidad social del derecho  •  Lucha por los derechos  •  Crítica al formalismo  •  Derecho como práctica social",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1141,7 +1141,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -1150,9 +1150,9 @@
             {
                 "text": "Jurista alemán que dio un giro práctico y social a la ciencia jurídica. Frente al formalismo excesivo, sostuvo que el derecho se realiza mediante la lucha por su efectividad.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1219,7 +1219,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -1228,9 +1228,9 @@
             {
                 "text": "Sistema de derecho procesal civil  •  Instituciones del proceso civil  •  Lecciones sobre el proceso penal",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1238,7 +1238,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -1247,9 +1247,9 @@
             {
                 "text": "Teoría general del proceso  •  Litigio y conflicto  •  Prueba judicial  •  Proceso civil y penal",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1257,7 +1257,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -1266,9 +1266,9 @@
             {
                 "text": "Procesalista italiano de enorme influencia en la cultura jurídica continental y latinoamericana. Estudió el proceso como mecanismo institucional para transformar el conflicto en decisión jurídica.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1335,7 +1335,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -1344,9 +1344,9 @@
             {
                 "text": "Elogio de los jueces escrito por un abogado  •  Instituciones de derecho procesal civil  •  Demasiados abogados",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1354,7 +1354,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -1363,9 +1363,9 @@
             {
                 "text": "Derecho procesal  •  Independencia judicial  •  Ética de la abogacía  •  Constitucionalismo democrático",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1373,7 +1373,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -1382,9 +1382,9 @@
             {
                 "text": "Jurista, abogado, procesalista y defensor del constitucionalismo democrático. Su obra une técnica jurídica, sensibilidad institucional y compromiso ético.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1451,7 +1451,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -1460,9 +1460,9 @@
             {
                 "text": "Teoría general del derecho  •  El tiempo de los derechos  •  Liberalismo y democracia",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1470,7 +1470,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -1479,9 +1479,9 @@
             {
                 "text": "Teoría del derecho  •  Derechos humanos  •  Democracia  •  Positivismo jurídico analítico",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1489,7 +1489,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -1498,9 +1498,9 @@
             {
                 "text": "Filósofo italiano del derecho y de la política. Su pensamiento articuló teoría jurídica, democracia, derechos humanos y análisis conceptual.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1567,7 +1567,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -1576,9 +1576,9 @@
             {
                 "text": "El concepto de derecho  •  Derecho, libertad y moralidad  •  Castigo y responsabilidad",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1586,7 +1586,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -1595,9 +1595,9 @@
             {
                 "text": "Positivismo jurídico analítico  •  Regla de reconocimiento  •  Reglas primarias y secundarias  •  Separación conceptual entre derecho y moral",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1605,7 +1605,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -1614,9 +1614,9 @@
             {
                 "text": "Filósofo británico del derecho y una de las figuras centrales de la teoría jurídica del siglo XX. En El concepto de derecho explicó el sistema jurídico mediante reglas primarias y secundarias.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1683,7 +1683,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -1692,9 +1692,9 @@
             {
                 "text": "Los derechos en serio  •  El imperio de la justicia  •  Justicia para erizos",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1702,7 +1702,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -1711,9 +1711,9 @@
             {
                 "text": "Derecho como integridad  •  Principios jurídicos  •  Crítica al positivismo  •  Interpretación constitucional",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1721,7 +1721,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -1730,9 +1730,9 @@
             {
                 "text": "Filósofo estadounidense del derecho. Criticó el positivismo jurídico y sostuvo que el derecho no está formado solo por reglas, sino también por principios.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1799,7 +1799,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -1808,9 +1808,9 @@
             {
                 "text": "Teoría de los derechos fundamentales  •  Teoría de la argumentación jurídica  •  El concepto y la validez del derecho",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1818,7 +1818,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -1827,9 +1827,9 @@
             {
                 "text": "Teoría de los principios  •  Ponderación  •  Proporcionalidad  •  Argumentación jurídica racional",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1837,7 +1837,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -1846,9 +1846,9 @@
             {
                 "text": "Jurista alemán reconocido por su teoría de los derechos fundamentales y su análisis de la argumentación jurídica. Propuso entender los principios como mandatos de optimización.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1915,7 +1915,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -1924,9 +1924,9 @@
             {
                 "text": "Derecho y razón  •  Principia iuris  •  Derechos y garantías",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1934,7 +1934,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -1943,9 +1943,9 @@
             {
                 "text": "Garantismo jurídico  •  Límites al poder punitivo  •  Derechos fundamentales  •  Estado constitucional de derecho",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1953,7 +1953,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -1962,9 +1962,9 @@
             {
                 "text": "Jurista italiano conocido por su teoría del garantismo. Defiende que el derecho debe limitar el poder y proteger los derechos fundamentales, especialmente frente al poder punitivo del Estado.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2031,7 +2031,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -2040,9 +2040,9 @@
             {
                 "text": "De los delitos y de las penas",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2050,7 +2050,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -2059,9 +2059,9 @@
             {
                 "text": "Derecho penal moderno  •  Legalidad penal  •  Proporcionalidad de las penas  •  Crítica a la tortura y a la pena de muerte",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2069,7 +2069,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -2078,9 +2078,9 @@
             {
                 "text": "Pensador italiano de la Ilustración y figura esencial del derecho penal moderno. En De los delitos y de las penas criticó la tortura, la arbitrariedad y la crueldad penal.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2147,7 +2147,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -2156,9 +2156,9 @@
             {
                 "text": "Introducción a los principios de la moral y la legislación  •  Tratados de legislación civil y penal  •  Panóptico",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2166,7 +2166,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -2175,9 +2175,9 @@
             {
                 "text": "Utilitarismo jurídico  •  Reforma legislativa  •  Codificación  •  Teoría de la legislación",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2185,7 +2185,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -2194,9 +2194,9 @@
             {
                 "text": "Filósofo y reformador inglés, fundador del utilitarismo moderno. Su pensamiento influyó en la legislación, la codificación y las reformas institucionales.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2263,7 +2263,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -2272,9 +2272,9 @@
             {
                 "text": "The Common Law  •  Votos judiciales en la Corte Suprema de Estados Unidos  •  Ensayos jurídicos",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2282,7 +2282,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -2291,9 +2291,9 @@
             {
                 "text": "Realismo jurídico estadounidense  •  Derecho como experiencia  •  Interpretación judicial  •  Common law",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2301,7 +2301,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -2310,9 +2310,9 @@
             {
                 "text": "Jurista y juez estadounidense, figura central del realismo jurídico. Su frase sobre la experiencia como vida del derecho expresa una visión práctica y evolutiva del sistema jurídico.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2379,7 +2379,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -2388,9 +2388,9 @@
             {
                 "text": "Fundamentos del derecho procesal civil  •  Estudios de derecho procesal civil  •  Los mandamientos del abogado",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2398,7 +2398,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -2407,9 +2407,9 @@
             {
                 "text": "Derecho procesal latinoamericano  •  Ética profesional  •  Tutela jurisdiccional  •  Cultura jurídica del abogado",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2417,7 +2417,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -2426,9 +2426,9 @@
             {
                 "text": "Procesalista uruguayo de enorme influencia en América Latina. Sus Fundamentos del derecho procesal civil y sus Mandamientos del abogado marcaron generaciones de juristas.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2495,7 +2495,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -2504,9 +2504,9 @@
             {
                 "text": "Introducción al análisis del derecho  •  Ética y derechos humanos  •  La constitución de la democracia deliberativa",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2514,7 +2514,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -2523,9 +2523,9 @@
             {
                 "text": "Filosofía del derecho  •  Derechos humanos  •  Democracia deliberativa  •  Análisis jurídico",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2533,7 +2533,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -2542,9 +2542,9 @@
             {
                 "text": "Filósofo argentino del derecho, reconocido por su aporte a la teoría jurídica, la ética pública y la democracia deliberativa.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2611,7 +2611,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -2620,9 +2620,9 @@
             {
                 "text": "Ensayos sobre el derecho de amparo  •  Derecho procesal constitucional  •  La protección procesal de los derechos humanos",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2630,7 +2630,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -2639,9 +2639,9 @@
             {
                 "text": "Derecho procesal constitucional  •  Juicio de amparo  •  Justicia constitucional  •  Protección de derechos humanos",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2649,7 +2649,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -2658,9 +2658,9 @@
             {
                 "text": "Jurista mexicano fundamental para el derecho procesal constitucional latinoamericano. Estudió el amparo, la justicia constitucional y los mecanismos de protección de derechos humanos.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2727,7 +2727,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -2736,9 +2736,9 @@
             {
                 "text": "Código Civil de Chile  •  Principios de derecho internacional  •  Gramática de la lengua castellana",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2746,7 +2746,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -2755,9 +2755,9 @@
             {
                 "text": "Codificación civil latinoamericana  •  Derecho internacional  •  Formación republicana  •  Cultura jurídica hispanoamericana",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2765,7 +2765,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -2774,9 +2774,9 @@
             {
                 "text": "Humanista, jurista y codificador nacido en Venezuela y desarrollado intelectualmente en Chile. Su obra más influyente fue el Código Civil chileno.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2843,7 +2843,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -2852,9 +2852,9 @@
             {
                 "text": "Derecho penal  •  Manual de derecho penal  •  En busca de las penas perdidas",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2862,7 +2862,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -2871,9 +2871,9 @@
             {
                 "text": "Derecho penal crítico  •  Criminología crítica  •  Límites al poder punitivo  •  Garantías penales",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2881,7 +2881,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -2890,9 +2890,9 @@
             {
                 "text": "Penalista argentino de gran influencia en América Latina. Su obra desarrolla una mirada crítica del poder punitivo y de sus riesgos institucionales.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2959,7 +2959,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -2968,9 +2968,9 @@
             {
                 "text": "Las razones del derecho  •  El derecho como argumentación  •  Curso de argumentación jurídica",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2978,7 +2978,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -2987,9 +2987,9 @@
             {
                 "text": "Argumentación jurídica  •  Razonamiento práctico  •  Teoría de la decisión judicial  •  Metodología jurídica",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2997,7 +2997,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -3006,9 +3006,9 @@
             {
                 "text": "Filósofo español del derecho, reconocido por sus estudios sobre argumentación jurídica. Su obra explica cómo los jueces, abogados y juristas justifican decisiones mediante razones.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -3075,7 +3075,7 @@
             {
                 "text": "Obras principales",
                 "x": 0.5,
-                "y": 0.88,
+                "y": 0.9,
                 "color": "#0044CC",
                 "size": 0.049,
                 "fontWeight": 800,
@@ -3084,9 +3084,9 @@
             {
                 "text": "Filosofía del derecho  •  Introducción a la ciencia del derecho  •  Leyes que no son derecho y derecho por encima de las leyes",
                 "x": 0.5,
-                "y": 0.8,
+                "y": 0.82,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -3094,7 +3094,7 @@
             {
                 "text": "Aportes clave",
                 "x": 0.5,
-                "y": 0.65,
+                "y": 0.67,
                 "color": "#0044CC",
                 "size": 0.046,
                 "fontWeight": 800,
@@ -3103,9 +3103,9 @@
             {
                 "text": "Fórmula de Radbruch  •  Justicia y seguridad jurídica  •  Filosofía del derecho  •  Crítica al positivismo extremo",
                 "x": 0.5,
-                "y": 0.55,
+                "y": 0.57,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.032,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -3113,7 +3113,7 @@
             {
                 "text": "Resumen",
                 "x": 0.5,
-                "y": 0.4,
+                "y": 0.42,
                 "color": "#0044CC",
                 "size": 0.044,
                 "fontWeight": 800,
@@ -3122,9 +3122,9 @@
             {
                 "text": "Jurista y filósofo alemán del derecho. Después de la experiencia del totalitarismo, formuló una tesis decisiva: cuando la injusticia alcanza un grado extremo, la ley positiva debe ceder ante la justicia.",
                 "x": 0.5,
-                "y": 0.29,
+                "y": 0.31,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.03,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6

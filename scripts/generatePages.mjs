@@ -72,7 +72,7 @@ for (const j of juristas) {
             {
                 text: "Obras principales",
                 x: 0.5,
-                y: 0.88,
+                y: 0.90,
                 color: BLUE_PEN,
                 size: 0.049,
                 fontWeight: 800,
@@ -81,9 +81,9 @@ for (const j of juristas) {
             {
                 text: j.obras.join('  •  '),
                 x: 0.5,
-                y: 0.80,
+                y: 0.82,
                 color: BLACK_PEN,
-                size: 0.028,
+                size: 0.034,
                 fontWeight: 600,
                 align: "center",
                 maxWidth: 0.60
@@ -91,7 +91,7 @@ for (const j of juristas) {
             {
                 text: "Aportes clave",
                 x: 0.5,
-                y: 0.65,
+                y: 0.67,
                 color: BLUE_PEN,
                 size: 0.046,
                 fontWeight: 800,
@@ -100,9 +100,9 @@ for (const j of juristas) {
             {
                 text: j.aportes.join('  •  '),
                 x: 0.5,
-                y: 0.55,
+                y: 0.57,
                 color: BLACK_PEN,
-                size: 0.026,
+                size: 0.032,
                 fontWeight: 600,
                 align: "center",
                 maxWidth: 0.60
@@ -110,7 +110,7 @@ for (const j of juristas) {
             {
                 text: "Resumen",
                 x: 0.5,
-                y: 0.40,
+                y: 0.42,
                 color: BLUE_PEN,
                 size: 0.044,
                 fontWeight: 800,
@@ -119,9 +119,9 @@ for (const j of juristas) {
             {
                 text: j.resumen,
                 x: 0.5,
-                y: 0.29,
+                y: 0.31,
                 color: BLACK_PEN,
-                size: 0.024,
+                size: 0.030,
                 fontWeight: 600,
                 align: "center",
                 maxWidth: 0.60
