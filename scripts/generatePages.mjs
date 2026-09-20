@@ -12,16 +12,16 @@ const BLACK_PEN = "#1a1a2e";
 const pages = [];
 
 for (const j of juristas) {
-    // PÁGINA IZQUIERDA: Frase arriba, foto centrada, nombre justo debajo
+    // PÁGINA IZQUIERDA: Frase y fechas arriba, foto centrada, nombre y lugar abajo
     pages.push({
         label: j.nombre,
         photos: [
             {
                 src: j.imagen,
                 x: 0.5,
-                y: 0.42,
+                y: 0.48,
                 rotation: 0,
-                scale: 0.32,
+                scale: 0.28,
                 border: 0.02
             }
         ],
@@ -29,18 +29,27 @@ for (const j of juristas) {
             {
                 text: `"${j.frase}"`,
                 x: 0.5,
-                y: 0.88,
+                y: 0.92,
                 color: BLACK_PEN,
-                size: 0.032,
+                size: 0.030,
                 fontStyle: "italic",
                 fontWeight: 700,
                 align: "center",
                 maxWidth: 0.60
             },
             {
+                text: j.fechas,
+                x: 0.5,
+                y: 0.85,
+                color: BLACK_PEN,
+                size: 0.026,
+                fontWeight: 600,
+                align: "center"
+            },
+            {
                 text: j.nombre,
                 x: 0.5,
-                y: 0.72,
+                y: 0.18,
                 color: BLUE_PEN,
                 size: 0.065,
                 fontWeight: 800,
@@ -49,18 +58,9 @@ for (const j of juristas) {
             {
                 text: j.lugar,
                 x: 0.5,
-                y: 0.66,
+                y: 0.12,
                 color: BLACK_PEN,
                 size: 0.030,
-                fontWeight: 600,
-                align: "center"
-            },
-            {
-                text: j.fechas,
-                x: 0.5,
-                y: 0.60,
-                color: BLACK_PEN,
-                size: 0.026,
                 fontWeight: 600,
                 align: "center"
             }
