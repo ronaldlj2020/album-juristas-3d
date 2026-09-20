@@ -72,59 +72,59 @@ for (const j of juristas) {
             {
                 text: "Obras principales",
                 x: 0.5,
-                y: 0.91,
+                y: 0.90,
                 color: BLUE_PEN,
-                size: 0.047,
+                size: 0.045,
                 fontWeight: 800,
                 align: "center"
             },
             {
                 text: j.obras.join('  •  '),
                 x: 0.5,
-                y: 0.82,
+                y: 0.80,
                 color: BLACK_PEN,
-                size: 0.034,
+                size: 0.030,
                 fontWeight: 600,
                 align: "center",
-                maxWidth: 0.60
+                maxWidth: 0.55
             },
             {
                 text: "Aportes clave",
                 x: 0.5,
-                y: 0.67,
-                color: BLUE_PEN,
-                size: 0.044,
-                fontWeight: 800,
-                align: "center"
-            },
-            {
-                text: j.aportes.join('  •  '),
-                x: 0.5,
-                y: 0.57,
-                color: BLACK_PEN,
-                size: 0.032,
-                fontWeight: 600,
-                align: "center",
-                maxWidth: 0.60
-            },
-            {
-                text: "Resumen",
-                x: 0.5,
-                y: 0.38,
+                y: 0.65,
                 color: BLUE_PEN,
                 size: 0.042,
                 fontWeight: 800,
                 align: "center"
             },
             {
-                text: j.resumen,
+                text: j.aportes.join('  •  '),
                 x: 0.5,
-                y: 0.32,
+                y: 0.55,
                 color: BLACK_PEN,
-                size: 0.030,
+                size: 0.028,
                 fontWeight: 600,
                 align: "center",
-                maxWidth: 0.60
+                maxWidth: 0.55
+            },
+            {
+                text: "Resumen",
+                x: 0.5,
+                y: 0.40,
+                color: BLUE_PEN,
+                size: 0.040,
+                fontWeight: 800,
+                align: "center"
+            },
+            {
+                text: j.resumen,
+                x: 0.5,
+                y: 0.30,
+                color: BLACK_PEN,
+                size: 0.026,
+                fontWeight: 600,
+                align: "center",
+                maxWidth: 0.55
             }
         ]
     });
