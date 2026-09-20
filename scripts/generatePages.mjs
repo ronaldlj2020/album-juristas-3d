@@ -17,7 +17,7 @@ for (const j of juristas) {
             {
                 src: j.imagen,
                 x: 0.5,
-                y: 0.50,
+                y: 0.52,
                 rotation: 0,
                 scale: 0.38,
                 border: 0.02
@@ -74,7 +74,7 @@ for (const j of juristas) {
                 x: 0.5,
                 y: 0.88,
                 color: BLUE_PEN,
-                size: 0.055,
+                size: 0.053,
                 fontWeight: 800,
                 align: "center"
             },
@@ -93,7 +93,7 @@ for (const j of juristas) {
                 x: 0.5,
                 y: 0.65,
                 color: BLUE_PEN,
-                size: 0.052,
+                size: 0.050,
                 fontWeight: 800,
                 align: "center"
             },
@@ -112,14 +112,14 @@ for (const j of juristas) {
                 x: 0.5,
                 y: 0.40,
                 color: BLUE_PEN,
-                size: 0.050,
+                size: 0.048,
                 fontWeight: 800,
                 align: "center"
             },
             {
                 text: j.resumen,
                 x: 0.5,
-                y: 0.28,
+                y: 0.29,
                 color: BLACK_PEN,
                 size: 0.034,
                 fontWeight: 600,
