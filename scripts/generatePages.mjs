@@ -17,9 +17,9 @@ for (const j of juristas) {
             {
                 src: j.imagen,
                 x: 0.5,
-                y: 0.48,
+                y: 0.42,
                 rotation: 0,
-                scale: 0.28,
+                scale: 0.38,
                 border: 0.02
             }
         ],
@@ -27,7 +27,7 @@ for (const j of juristas) {
             {
                 text: `"${j.frase}"`,
                 x: 0.5,
-                y: 0.90,
+                y: 0.92,
                 color: BLACK_PEN,
                 size: 0.032,
                 fontStyle: "italic",
@@ -38,7 +38,7 @@ for (const j of juristas) {
             {
                 text: j.nombre,
                 x: 0.5,
-                y: 0.72,
+                y: 0.18,
                 color: BLUE_PEN,
                 size: 0.065,
                 fontWeight: 800,
@@ -47,7 +47,7 @@ for (const j of juristas) {
             {
                 text: j.lugar,
                 x: 0.5,
-                y: 0.66,
+                y: 0.12,
                 color: BLACK_PEN,
                 size: 0.030,
                 fontWeight: 600,
@@ -56,7 +56,7 @@ for (const j of juristas) {
             {
                 text: j.fechas,
                 x: 0.5,
-                y: 0.58,
+                y: 0.06,
                 color: BLACK_PEN,
                 size: 0.030,
                 fontWeight: 700,
