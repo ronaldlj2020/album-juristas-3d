@@ -1,0 +1,723 @@
+[
+    {
+        "label": "Marco Tulio Cicerón",
+        "photos": [
+            {
+                "src": "ciceron.png",
+                "x": 0.5,
+                "y": 0.45,
+                "rotation": 0,
+                "scale": 0.28,
+                "border": 0.02
+            }
+        ],
+        "texts": [
+            {
+                "text": "Marco Tulio Cicerón",
+                "x": 0.5,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.07,
+                "fontWeight": 700,
+                "align": "center"
+            },
+            {
+                "text": "106 a.C. - 43 a.C.",
+                "x": 0.5,
+                "y": 0.76,
+                "color": "#4a4a6a",
+                "size": 0.04,
+                "align": "center"
+            },
+            {
+                "text": "Arpino, República Romana",
+                "x": 0.5,
+                "y": 0.7,
+                "color": "#4a4a6a",
+                "size": 0.034,
+                "align": "center"
+            },
+            {
+                "text": "\"La justicia es la reina de las virtudes.\"",
+                "x": 0.5,
+                "y": 0.16,
+                "color": "#2d5016",
+                "size": 0.036,
+                "fontStyle": "italic",
+                "align": "center",
+                "maxWidth": 0.65
+            }
+        ]
+    },
+    {
+        "label": "Marco Tulio Cicerón - Aportes",
+        "photos": [],
+        "texts": [
+            {
+                "text": "Resumen",
+                "x": 0.5,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.055,
+                "fontWeight": 700,
+                "align": "center"
+            },
+            {
+                "text": "Político, filósofo y retórico romano. Cónsul en 63 a.C., se opuso a los excesos de Sila y fue férreo opositor de Julio César. Maestro de la lengua latina.",
+                "x": 0.5,
+                "y": 0.68,
+                "color": "#2c2c2c",
+                "size": 0.038,
+                "align": "center",
+                "maxWidth": 0.6,
+                "lineHeight": 1.3
+            },
+            {
+                "text": "Aportes clave",
+                "x": 0.5,
+                "y": 0.48,
+                "color": "#1a1a2e",
+                "size": 0.048,
+                "fontWeight": 700,
+                "align": "center"
+            },
+            {
+                "text": "Fundó la retórica jurídica occidental. Defendió la República romana y el derecho natural. Sus discursos sentaron las bases de la oratoria forense moderna.",
+                "x": 0.5,
+                "y": 0.34,
+                "color": "#2c2c2c",
+                "size": 0.034,
+                "align": "center",
+                "maxWidth": 0.6,
+                "lineHeight": 1.3
+            },
+            {
+                "text": "Obras: De re publica  •  De legibus  •  Catilinarias  •  Filípicas",
+                "x": 0.5,
+                "y": 0.16,
+                "color": "#4a4a6a",
+                "size": 0.028,
+                "align": "center",
+                "maxWidth": 0.6
+            }
+        ]
+    },
+    {
+        "label": "Ulpiano",
+        "photos": [
+            {
+                "src": "ulpiano.png",
+                "x": 0.5,
+                "y": 0.45,
+                "rotation": 0,
+                "scale": 0.28,
+                "border": 0.02
+            }
+        ],
+        "texts": [
+            {
+                "text": "Ulpiano",
+                "x": 0.5,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.07,
+                "fontWeight": 700,
+                "align": "center"
+            },
+            {
+                "text": "170 - 228",
+                "x": 0.5,
+                "y": 0.76,
+                "color": "#4a4a6a",
+                "size": 0.04,
+                "align": "center"
+            },
+            {
+                "text": "Fenicia, Imperio Romano",
+                "x": 0.5,
+                "y": 0.7,
+                "color": "#4a4a6a",
+                "size": 0.034,
+                "align": "center"
+            },
+            {
+                "text": "\"Iustitia est constans et perpetua voluntas ius suum cuique tribuens.\"",
+                "x": 0.5,
+                "y": 0.16,
+                "color": "#2d5016",
+                "size": 0.036,
+                "fontStyle": "italic",
+                "align": "center",
+                "maxWidth": 0.65
+            }
+        ]
+    },
+    {
+        "label": "Ulpiano - Aportes",
+        "photos": [],
+        "texts": [
+            {
+                "text": "Resumen",
+                "x": 0.5,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.055,
+                "fontWeight": 700,
+                "align": "center"
+            },
+            {
+                "text": "Juriconsulto romano, prefecto del pretorio bajo Alejandro Severo. Riguroso defensor de la justicia, asesinado por militares que se oponían a sus reformas.",
+                "x": 0.5,
+                "y": 0.68,
+                "color": "#2c2c2c",
+                "size": 0.038,
+                "align": "center",
+                "maxWidth": 0.6,
+                "lineHeight": 1.3
+            },
+            {
+                "text": "Aportes clave",
+                "x": 0.5,
+                "y": 0.48,
+                "color": "#1a1a2e",
+                "size": 0.048,
+                "fontWeight": 700,
+                "align": "center"
+            },
+            {
+                "text": "Principios fundamentales del derecho: vivir honestamente, no dañar a otro, dar a cada uno lo suyo. 287 libros jurídicos, base del Digesto de Justiniano.",
+                "x": 0.5,
+                "y": 0.34,
+                "color": "#2c2c2c",
+                "size": 0.034,
+                "align": "center",
+                "maxWidth": 0.6,
+                "lineHeight": 1.3
+            },
+            {
+                "text": "Obras: Ad Edictum  •  Ad Sabinus  •  Institutiones",
+                "x": 0.5,
+                "y": 0.16,
+                "color": "#4a4a6a",
+                "size": 0.028,
+                "align": "center",
+                "maxWidth": 0.6
+            }
+        ]
+    },
+    {
+        "label": "Barón de Montesquieu",
+        "photos": [
+            {
+                "src": "montesquieu.png",
+                "x": 0.5,
+                "y": 0.45,
+                "rotation": 0,
+                "scale": 0.28,
+                "border": 0.02
+            }
+        ],
+        "texts": [
+            {
+                "text": "Barón de Montesquieu",
+                "x": 0.5,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.07,
+                "fontWeight": 700,
+                "align": "center"
+            },
+            {
+                "text": "1689 - 1755",
+                "x": 0.5,
+                "y": 0.76,
+                "color": "#4a4a6a",
+                "size": 0.04,
+                "align": "center"
+            },
+            {
+                "text": "La Brède, Francia",
+                "x": 0.5,
+                "y": 0.7,
+                "color": "#4a4a6a",
+                "size": 0.034,
+                "align": "center"
+            },
+            {
+                "text": "\"El poder debe frenar al poder.\"",
+                "x": 0.5,
+                "y": 0.16,
+                "color": "#2d5016",
+                "size": 0.036,
+                "fontStyle": "italic",
+                "align": "center",
+                "maxWidth": 0.65
+            }
+        ]
+    },
+    {
+        "label": "Barón de Montesquieu - Aportes",
+        "photos": [],
+        "texts": [
+            {
+                "text": "Resumen",
+                "x": 0.5,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.055,
+                "fontWeight": 700,
+                "align": "center"
+            },
+            {
+                "text": "Pensador ilustrado, Charles Louis de Secondat. Aristócrata francés cuyas obras transformaron el pensamiento jurídico y político moderno.",
+                "x": 0.5,
+                "y": 0.68,
+                "color": "#2c2c2c",
+                "size": 0.038,
+                "align": "center",
+                "maxWidth": 0.6,
+                "lineHeight": 1.3
+            },
+            {
+                "text": "Aportes clave",
+                "x": 0.5,
+                "y": 0.48,
+                "color": "#1a1a2e",
+                "size": 0.048,
+                "fontWeight": 700,
+                "align": "center"
+            },
+            {
+                "text": "Teoría de la separación de poderes (legislativo, ejecutivo, judicial). Análisis de las relaciones entre derecho, clima, costumbres y gobierno.",
+                "x": 0.5,
+                "y": 0.34,
+                "color": "#2c2c2c",
+                "size": 0.034,
+                "align": "center",
+                "maxWidth": 0.6,
+                "lineHeight": 1.3
+            },
+            {
+                "text": "Obras: El espíritu de las leyes  •  Cartas persas  •  Del espíritu de las leyes",
+                "x": 0.5,
+                "y": 0.16,
+                "color": "#4a4a6a",
+                "size": 0.028,
+                "align": "center",
+                "maxWidth": 0.6
+            }
+        ]
+    },
+    {
+        "label": "Alexis de Tocqueville",
+        "photos": [
+            {
+                "src": "tocqueville.png",
+                "x": 0.5,
+                "y": 0.45,
+                "rotation": 0,
+                "scale": 0.28,
+                "border": 0.02
+            }
+        ],
+        "texts": [
+            {
+                "text": "Alexis de Tocqueville",
+                "x": 0.5,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.07,
+                "fontWeight": 700,
+                "align": "center"
+            },
+            {
+                "text": "1805 - 1859",
+                "x": 0.5,
+                "y": 0.76,
+                "color": "#4a4a6a",
+                "size": 0.04,
+                "align": "center"
+            },
+            {
+                "text": "París, Francia",
+                "x": 0.5,
+                "y": 0.7,
+                "color": "#4a4a6a",
+                "size": 0.034,
+                "align": "center"
+            },
+            {
+                "text": "\"La democracia es el gobierno del pueblo, por el pueblo y para el pueblo.\"",
+                "x": 0.5,
+                "y": 0.16,
+                "color": "#2d5016",
+                "size": 0.036,
+                "fontStyle": "italic",
+                "align": "center",
+                "maxWidth": 0.65
+            }
+        ]
+    },
+    {
+        "label": "Alexis de Tocqueville - Aportes",
+        "photos": [],
+        "texts": [
+            {
+                "text": "Resumen",
+                "x": 0.5,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.055,
+                "fontWeight": 700,
+                "align": "center"
+            },
+            {
+                "text": "Pensador y político francés. Viajó a Estados Unidos para estudiar su sistema penitenciario y analizó la democracia moderna.",
+                "x": 0.5,
+                "y": 0.68,
+                "color": "#2c2c2c",
+                "size": 0.038,
+                "align": "center",
+                "maxWidth": 0.6,
+                "lineHeight": 1.3
+            },
+            {
+                "text": "Aportes clave",
+                "x": 0.5,
+                "y": 0.48,
+                "color": "#1a1a2e",
+                "size": 0.048,
+                "fontWeight": 700,
+                "align": "center"
+            },
+            {
+                "text": "Estudio de la democracia como sistema político y social. Análisis de la igualdad de condiciones y sus riesgos: tiranía de la mayoría e individualismo.",
+                "x": 0.5,
+                "y": 0.34,
+                "color": "#2c2c2c",
+                "size": 0.034,
+                "align": "center",
+                "maxWidth": 0.6,
+                "lineHeight": 1.3
+            },
+            {
+                "text": "Obras: La Democracia en América  •  El Antiguo Régimen y la Revolución",
+                "x": 0.5,
+                "y": 0.16,
+                "color": "#4a4a6a",
+                "size": 0.028,
+                "align": "center",
+                "maxWidth": 0.6
+            }
+        ]
+    },
+    {
+        "label": "Friedrich Karl von Savigny",
+        "photos": [
+            {
+                "src": "savigny.png",
+                "x": 0.5,
+                "y": 0.45,
+                "rotation": 0,
+                "scale": 0.28,
+                "border": 0.02
+            }
+        ],
+        "texts": [
+            {
+                "text": "Friedrich Karl von Savigny",
+                "x": 0.5,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.07,
+                "fontWeight": 700,
+                "align": "center"
+            },
+            {
+                "text": "1779 - 1861",
+                "x": 0.5,
+                "y": 0.76,
+                "color": "#4a4a6a",
+                "size": 0.04,
+                "align": "center"
+            },
+            {
+                "text": "Fráncfort del Meno, Alemania",
+                "x": 0.5,
+                "y": 0.7,
+                "color": "#4a4a6a",
+                "size": 0.034,
+                "align": "center"
+            },
+            {
+                "text": "\"El derecho es el espíritu del pueblo, que se desarrolla orgánicamente.\"",
+                "x": 0.5,
+                "y": 0.16,
+                "color": "#2d5016",
+                "size": 0.036,
+                "fontStyle": "italic",
+                "align": "center",
+                "maxWidth": 0.65
+            }
+        ]
+    },
+    {
+        "label": "Friedrich Karl von Savigny - Aportes",
+        "photos": [],
+        "texts": [
+            {
+                "text": "Resumen",
+                "x": 0.5,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.055,
+                "fontWeight": 700,
+                "align": "center"
+            },
+            {
+                "text": "Jurista alemán, fundador de la Escuela Histórica del Derecho. Doctor a los 21 años, destacado maestro de derecho romano.",
+                "x": 0.5,
+                "y": 0.68,
+                "color": "#2c2c2c",
+                "size": 0.038,
+                "align": "center",
+                "maxWidth": 0.6,
+                "lineHeight": 1.3
+            },
+            {
+                "text": "Aportes clave",
+                "x": 0.5,
+                "y": 0.48,
+                "color": "#1a1a2e",
+                "size": 0.048,
+                "fontWeight": 700,
+                "align": "center"
+            },
+            {
+                "text": "Escuela Histórica: el derecho nace del espíritu del pueblo (Volksgeist). Teoría de la posesión y método histórico en la ciencia jurídica.",
+                "x": 0.5,
+                "y": 0.34,
+                "color": "#2c2c2c",
+                "size": 0.034,
+                "align": "center",
+                "maxWidth": 0.6,
+                "lineHeight": 1.3
+            },
+            {
+                "text": "Obras: Derecho de la posesión  •  De la vocación de nuestra época para la legislación",
+                "x": 0.5,
+                "y": 0.16,
+                "color": "#4a4a6a",
+                "size": 0.028,
+                "align": "center",
+                "maxWidth": 0.6
+            }
+        ]
+    },
+    {
+        "label": "Giuseppe Chiovenda",
+        "photos": [
+            {
+                "src": "chiovenda.png",
+                "x": 0.5,
+                "y": 0.45,
+                "rotation": 0,
+                "scale": 0.28,
+                "border": 0.02
+            }
+        ],
+        "texts": [
+            {
+                "text": "Giuseppe Chiovenda",
+                "x": 0.5,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.07,
+                "fontWeight": 700,
+                "align": "center"
+            },
+            {
+                "text": "1872 - 1937",
+                "x": 0.5,
+                "y": 0.76,
+                "color": "#4a4a6a",
+                "size": 0.04,
+                "align": "center"
+            },
+            {
+                "text": "Premosello, Italia",
+                "x": 0.5,
+                "y": 0.7,
+                "color": "#4a4a6a",
+                "size": 0.034,
+                "align": "center"
+            },
+            {
+                "text": "\"El proceso es la relación jurídica entre las partes y el juez.\"",
+                "x": 0.5,
+                "y": 0.16,
+                "color": "#2d5016",
+                "size": 0.036,
+                "fontStyle": "italic",
+                "align": "center",
+                "maxWidth": 0.65
+            }
+        ]
+    },
+    {
+        "label": "Giuseppe Chiovenda - Aportes",
+        "photos": [],
+        "texts": [
+            {
+                "text": "Resumen",
+                "x": 0.5,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.055,
+                "fontWeight": 700,
+                "align": "center"
+            },
+            {
+                "text": "Procesalista italiano, catedrático en Parma, Bolonia, Nápoles y Roma. Renombrado maestro que transformó el estudio del derecho procesal civil.",
+                "x": 0.5,
+                "y": 0.68,
+                "color": "#2c2c2c",
+                "size": 0.038,
+                "align": "center",
+                "maxWidth": 0.6,
+                "lineHeight": 1.3
+            },
+            {
+                "text": "Aportes clave",
+                "x": 0.5,
+                "y": 0.48,
+                "color": "#1a1a2e",
+                "size": 0.048,
+                "fontWeight": 700,
+                "align": "center"
+            },
+            {
+                "text": "Teoría del proceso como relación jurídica. Estudio de la jurisdicción, la acción y la excepción. Notable influencia en la doctrina hispanoamericana.",
+                "x": 0.5,
+                "y": 0.34,
+                "color": "#2c2c2c",
+                "size": 0.034,
+                "align": "center",
+                "maxWidth": 0.6,
+                "lineHeight": 1.3
+            },
+            {
+                "text": "Obras: Principii di diritto processuale civile  •  La condanna nelle spese giudiziali",
+                "x": 0.5,
+                "y": 0.16,
+                "color": "#4a4a6a",
+                "size": 0.028,
+                "align": "center",
+                "maxWidth": 0.6
+            }
+        ]
+    },
+    {
+        "label": "Hans Kelsen",
+        "photos": [
+            {
+                "src": "kelsen.png",
+                "x": 0.5,
+                "y": 0.45,
+                "rotation": 0,
+                "scale": 0.28,
+                "border": 0.02
+            }
+        ],
+        "texts": [
+            {
+                "text": "Hans Kelsen",
+                "x": 0.5,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.07,
+                "fontWeight": 700,
+                "align": "center"
+            },
+            {
+                "text": "1881 - 1973",
+                "x": 0.5,
+                "y": 0.76,
+                "color": "#4a4a6a",
+                "size": 0.04,
+                "align": "center"
+            },
+            {
+                "text": "Praga, Imperio Austrohúngaro",
+                "x": 0.5,
+                "y": 0.7,
+                "color": "#4a4a6a",
+                "size": 0.034,
+                "align": "center"
+            },
+            {
+                "text": "\"El derecho es una ordenación normativa del comportamiento humano.\"",
+                "x": 0.5,
+                "y": 0.16,
+                "color": "#2d5016",
+                "size": 0.036,
+                "fontStyle": "italic",
+                "align": "center",
+                "maxWidth": 0.65
+            }
+        ]
+    },
+    {
+        "label": "Hans Kelsen - Aportes",
+        "photos": [],
+        "texts": [
+            {
+                "text": "Resumen",
+                "x": 0.5,
+                "y": 0.85,
+                "color": "#1a1a2e",
+                "size": 0.055,
+                "fontWeight": 700,
+                "align": "center"
+            },
+            {
+                "text": "Jurista y filósofo del derecho, creador de la Teoría Pura del Derecho. Catedrático en Harvard y Berkeley, huyó de la Europa en guerra.",
+                "x": 0.5,
+                "y": 0.68,
+                "color": "#2c2c2c",
+                "size": 0.038,
+                "align": "center",
+                "maxWidth": 0.6,
+                "lineHeight": 1.3
+            },
+            {
+                "text": "Aportes clave",
+                "x": 0.5,
+                "y": 0.48,
+                "color": "#1a1a2e",
+                "size": 0.048,
+                "fontWeight": 700,
+                "align": "center"
+            },
+            {
+                "text": "Teoría Pura del Derecho: separación entre derecho y moral. Pirámide normativa y norma fundamental. Tribunal Constitucional como garante de la Constitución.",
+                "x": 0.5,
+                "y": 0.34,
+                "color": "#2c2c2c",
+                "size": 0.034,
+                "align": "center",
+                "maxWidth": 0.6,
+                "lineHeight": 1.3
+            },
+            {
+                "text": "Obras: Teoría Pura del Derecho  •  Teoría General del Estado",
+                "x": 0.5,
+                "y": 0.16,
+                "color": "#4a4a6a",
+                "size": 0.028,
+                "align": "center",
+                "maxWidth": 0.6
+            }
+        ]
+    }
+]

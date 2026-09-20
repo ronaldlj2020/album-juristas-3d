@@ -1,0 +1,79 @@
+[
+    {
+        "id": "ciceron",
+        "nombre": "Marco Tulio Cicerón",
+        "anios": "106 a.C. - 43 a.C.",
+        "origen": "Arpino, República Romana",
+        "resumen": "Político, filósofo y retórico romano. Cónsul en 63 a.C., se opuso a los excesos de Sila y fue férreo opositor de Julio César. Maestro de la lengua latina.",
+        "aportes": "Fundó la retórica jurídica occidental. Defendió la República romana y el derecho natural. Sus discursos sentaron las bases de la oratoria forense moderna.",
+        "obras": ["De re publica", "De legibus", "Catilinarias", "Filípicas"],
+        "frase": "La justicia es la reina de las virtudes.",
+        "imagen": "ciceron"
+    },
+    {
+        "id": "ulpiano",
+        "nombre": "Ulpiano",
+        "anios": "170 - 228",
+        "origen": "Fenicia, Imperio Romano",
+        "resumen": "Juriconsulto romano, prefecto del pretorio bajo Alejandro Severo. Riguroso defensor de la justicia, asesinado por militares que se oponían a sus reformas.",
+        "aportes": "Principios fundamentales del derecho: vivir honestamente, no dañar a otro, dar a cada uno lo suyo. 287 libros jurídicos, base del Digesto de Justiniano.",
+        "obras": ["Ad Edictum", "Ad Sabinus", "Institutiones"],
+        "frase": "Iustitia est constans et perpetua voluntas ius suum cuique tribuens.",
+        "imagen": "ulpiano"
+    },
+    {
+        "id": "montesquieu",
+        "nombre": "Barón de Montesquieu",
+        "anios": "1689 - 1755",
+        "origen": "La Brède, Francia",
+        "resumen": "Pensador ilustrado, Charles Louis de Secondat. Aristócrata francés cuyas obras transformaron el pensamiento jurídico y político moderno.",
+        "aportes": "Teoría de la separación de poderes (legislativo, ejecutivo, judicial). Análisis de las relaciones entre derecho, clima, costumbres y gobierno.",
+        "obras": ["El espíritu de las leyes", "Cartas persas", "Del espíritu de las leyes"],
+        "frase": "El poder debe frenar al poder.",
+        "imagen": "montesquieu"
+    },
+    {
+        "id": "tocqueville",
+        "nombre": "Alexis de Tocqueville",
+        "anios": "1805 - 1859",
+        "origen": "París, Francia",
+        "resumen": "Pensador y político francés. Viajó a Estados Unidos para estudiar su sistema penitenciario y analizó la democracia moderna.",
+        "aportes": "Estudio de la democracia como sistema político y social. Análisis de la igualdad de condiciones y sus riesgos: tiranía de la mayoría e individualismo.",
+        "obras": ["La Democracia en América", "El Antiguo Régimen y la Revolución"],
+        "frase": "La democracia es el gobierno del pueblo, por el pueblo y para el pueblo.",
+        "imagen": "tocqueville"
+    },
+    {
+        "id": "savigny",
+        "nombre": "Friedrich Karl von Savigny",
+        "anios": "1779 - 1861",
+        "origen": "Fráncfort del Meno, Alemania",
+        "resumen": "Jurista alemán, fundador de la Escuela Histórica del Derecho. Doctor a los 21 años, destacado maestro de derecho romano.",
+        "aportes": "Escuela Histórica: el derecho nace del espíritu del pueblo (Volksgeist). Teoría de la posesión y método histórico en la ciencia jurídica.",
+        "obras": ["Derecho de la posesión", "De la vocación de nuestra época para la legislación"],
+        "frase": "El derecho es el espíritu del pueblo, que se desarrolla orgánicamente.",
+        "imagen": "savigny"
+    },
+    {
+        "id": "chiovenda",
+        "nombre": "Giuseppe Chiovenda",
+        "anios": "1872 - 1937",
+        "origen": "Premosello, Italia",
+        "resumen": "Procesalista italiano, catedrático en Parma, Bolonia, Nápoles y Roma. Renombrado maestro que transformó el estudio del derecho procesal civil.",
+        "aportes": "Teoría del proceso como relación jurídica. Estudio de la jurisdicción, la acción y la excepción. Notable influencia en la doctrina hispanoamericana.",
+        "obras": ["Principii di diritto processuale civile", "La condanna nelle spese giudiziali"],
+        "frase": "El proceso es la relación jurídica entre las partes y el juez.",
+        "imagen": "chiovenda"
+    },
+    {
+        "id": "kelsen",
+        "nombre": "Hans Kelsen",
+        "anios": "1881 - 1973",
+        "origen": "Praga, Imperio Austrohúngaro",
+        "resumen": "Jurista y filósofo del derecho, creador de la Teoría Pura del Derecho. Catedrático en Harvard y Berkeley, huyó de la Europa en guerra.",
+        "aportes": "Teoría Pura del Derecho: separación entre derecho y moral. Pirámide normativa y norma fundamental. Tribunal Constitucional como garante de la Constitución.",
+        "obras": ["Teoría Pura del Derecho", "Teoría General del Estado"],
+        "frase": "El derecho es una ordenación normativa del comportamiento humano.",
+        "imagen": "kelsen"
+    }
+]

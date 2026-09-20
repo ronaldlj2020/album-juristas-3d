@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <defs>
+    <linearGradient id="bg_kelsen" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d0d;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#000000;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient id="light_kelsen" cx="50%" cy="30%" r="60%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.15" />
+      <stop offset="100%" style="stop-color:#000000;stop-opacity:0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Fondo -->
+  <rect width="800" height="1000" fill="url(#bg_kelsen)"/>
+  <rect width="800" height="1000" fill="url(#light_kelsen)"/>
+
+  <!-- Marco dorado -->
+  <rect x="20" y="20" width="760" height="960" fill="none" stroke="#c9a227" stroke-width="4"/>
+  <rect x="30" y="30" width="740" height="940" fill="none" stroke="#c9a227" stroke-width="1" opacity="0.5"/>
+
+  <!-- Círculo del retrato -->
+  <circle cx="400" cy="380" r="200" fill="#e0c097" stroke="#c9a227" stroke-width="4"/>
+  <circle cx="400" cy="380" r="200" fill="url(#light_kelsen)"/>
+
+  <!-- Cabello -->
+  <path d="M200,300 Q200,150 400,150 Q600,150 600,300 L600,350 Q600,250 400,250 Q200,250 200,350 Z" fill="#3a3a3a"/>
+
+  <!-- Ojos -->
+  <ellipse cx="330" cy="360" rx="20" ry="12" fill="#0d0d0d"/>
+  <ellipse cx="470" cy="360" rx="20" ry="12" fill="#0d0d0d"/>
+  <circle cx="330" cy="360" r="6" fill="#ffffff"/>
+  <circle cx="470" cy="360" r="6" fill="#ffffff"/>
+
+  <!-- Nariz -->
+  <path d="M390,380 L400,440 L410,380" fill="none" stroke="#0d0d0d" stroke-width="2" opacity="0.5"/>
+
+  <!-- Boca -->
+  <path d="M350,480 Q400,500 450,480" fill="none" stroke="#0d0d0d" stroke-width="3" opacity="0.6"/>
+
+  <!-- Toga / Ropa -->
+  <path d="M250,600 L550,600 L600,900 L200,900 Z" fill="#c9a227" opacity="0.3"/>
+  <rect x="350" y="600" width="100" height="300" fill="#0d0d0d" rx="10"/>
+  <line x1="400" y1="620" x2="400" y2="880" stroke="#c9a227" stroke-width="3"/>
+
+  <!-- Iniciales -->
+  <text x="400" y="780" font-family="Georgia, serif" font-size="80" fill="#c9a227" text-anchor="middle" font-weight="bold">HK</text>
+
+  <!-- Nombre -->
+  <text x="400" y="920" font-family="Playfair Display, Georgia, serif" font-size="42" fill="#f6f4f0" text-anchor="middle" font-weight="700">Hans Kelsen</text>
+
+  <!-- Años -->
+  <text x="400" y="960" font-family="Georgia, serif" font-size="24" fill="#888888" text-anchor="middle">1881 - 1973</text>
+</svg>
