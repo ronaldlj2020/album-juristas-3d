@@ -110,7 +110,7 @@ for (const j of juristas) {
             {
                 text: "Resumen",
                 x: 0.5,
-                y: 0.42,
+                y: 0.38,
                 color: BLUE_PEN,
                 size: 0.043,
                 fontWeight: 800,
@@ -119,7 +119,7 @@ for (const j of juristas) {
             {
                 text: j.resumen,
                 x: 0.5,
-                y: 0.31,
+                y: 0.32,
                 color: BLACK_PEN,
                 size: 0.030,
                 fontWeight: 600,
