@@ -74,7 +74,7 @@ for (const j of juristas) {
                 x: 0.5,
                 y: 0.88,
                 color: BLUE_PEN,
-                size: 0.053,
+                size: 0.049,
                 fontWeight: 800,
                 align: "center"
             },
@@ -83,7 +83,7 @@ for (const j of juristas) {
                 x: 0.5,
                 y: 0.80,
                 color: BLACK_PEN,
-                size: 0.038,
+                size: 0.028,
                 fontWeight: 600,
                 align: "center",
                 maxWidth: 0.60
@@ -93,7 +93,7 @@ for (const j of juristas) {
                 x: 0.5,
                 y: 0.65,
                 color: BLUE_PEN,
-                size: 0.050,
+                size: 0.046,
                 fontWeight: 800,
                 align: "center"
             },
@@ -102,7 +102,7 @@ for (const j of juristas) {
                 x: 0.5,
                 y: 0.55,
                 color: BLACK_PEN,
-                size: 0.036,
+                size: 0.026,
                 fontWeight: 600,
                 align: "center",
                 maxWidth: 0.60
@@ -112,7 +112,7 @@ for (const j of juristas) {
                 x: 0.5,
                 y: 0.40,
                 color: BLUE_PEN,
-                size: 0.048,
+                size: 0.044,
                 fontWeight: 800,
                 align: "center"
             },
@@ -121,7 +121,7 @@ for (const j of juristas) {
                 x: 0.5,
                 y: 0.29,
                 color: BLACK_PEN,
-                size: 0.034,
+                size: 0.024,
                 fontWeight: 600,
                 align: "center",
                 maxWidth: 0.60
