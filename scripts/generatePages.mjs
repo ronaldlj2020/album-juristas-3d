@@ -12,16 +12,16 @@ const BLACK_PEN = "#1a1a2e";
 const pages = [];
 
 for (const j of juristas) {
-    // PÁGINA IZQUIERDA: Frase arriba, foto centrada, nombre y lugar abajo
+    // PÁGINA IZQUIERDA: Frase arriba, foto centrada, nombre justo debajo
     pages.push({
         label: j.nombre,
         photos: [
             {
                 src: j.imagen,
                 x: 0.5,
-                y: 0.48,
+                y: 0.45,
                 rotation: 0,
-                scale: 0.28,
+                scale: 0.30,
                 border: 0.02
             }
         ],
@@ -29,7 +29,7 @@ for (const j of juristas) {
             {
                 text: `"${j.frase}"`,
                 x: 0.5,
-                y: 0.92,
+                y: 0.90,
                 color: BLACK_PEN,
                 size: 0.030,
                 fontStyle: "italic",
@@ -38,36 +38,36 @@ for (const j of juristas) {
                 maxWidth: 0.60
             },
             {
-                text: j.fechas,
-                x: 0.5,
-                y: 0.86,
-                color: BLACK_PEN,
-                size: 0.026,
-                fontWeight: 600,
-                align: "center"
-            },
-            {
                 text: j.nombre,
                 x: 0.5,
-                y: 0.34,
+                y: 0.72,
                 color: BLUE_PEN,
-                size: 0.075,
+                size: 0.065,
                 fontWeight: 800,
                 align: "center"
             },
             {
                 text: j.lugar,
                 x: 0.5,
-                y: 0.28,
+                y: 0.66,
                 color: BLACK_PEN,
-                size: 0.040,
+                size: 0.030,
+                fontWeight: 600,
+                align: "center"
+            },
+            {
+                text: j.fechas,
+                x: 0.5,
+                y: 0.60,
+                color: BLACK_PEN,
+                size: 0.026,
                 fontWeight: 600,
                 align: "center"
             }
         ]
     });
 
-    // PÁGINA DERECHA: Obras, Aportes, Resumen
+    // PÁGINA DERECHA: Obras, Aportes, Resumen (orden correcto)
     pages.push({
         label: j.nombre + " - Aportes",
         photos: [],
@@ -76,7 +76,7 @@ for (const j of juristas) {
                 text: "Obras principales",
                 x: 0.5,
                 y: 0.88,
-                color: BLACK_PEN,
+                color: BLUE_PEN,
                 size: 0.045,
                 fontWeight: 800,
                 align: "center"

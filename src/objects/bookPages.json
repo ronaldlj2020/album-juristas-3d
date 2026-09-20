@@ -5,9 +5,9 @@
             {
                 "src": "juristas/01_marco_tulio_ciceron.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -15,7 +15,7 @@
             {
                 "text": "\"La justicia es la reina de las virtudes.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -24,29 +24,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "106 a.C. - 43 a.C.",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Marco Tulio Cicerón",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Arpino, República Romana",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "106 a.C. - 43 a.C.",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -60,7 +60,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -121,9 +121,9 @@
             {
                 "src": "juristas/02_ulpiano.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -131,7 +131,7 @@
             {
                 "text": "\"Dar a cada uno lo suyo.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -140,29 +140,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "c. 170 - 228",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Ulpiano",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Tiro, provincia de Fenicia, Imperio Romano",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "c. 170 - 228",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -176,7 +176,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -237,9 +237,9 @@
             {
                 "src": "juristas/03_montesquieu.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -247,7 +247,7 @@
             {
                 "text": "\"Para que no se pueda abusar del poder, es preciso que el poder detenga al poder.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -256,29 +256,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "1689 - 1755",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Montesquieu",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "La Brède, Francia",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "1689 - 1755",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -292,7 +292,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -353,9 +353,9 @@
             {
                 "src": "juristas/04_alexis_de_tocqueville.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -363,7 +363,7 @@
             {
                 "text": "\"La libertad no consiste en hacer lo que se quiere, sino en poder hacer lo que se debe.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -372,29 +372,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "1805 - 1859",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Alexis de Tocqueville",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "París, Francia",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "1805 - 1859",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -408,7 +408,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -469,9 +469,9 @@
             {
                 "src": "juristas/05_friedrich_karl_von_savigny.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -479,7 +479,7 @@
             {
                 "text": "\"El derecho no se hace, sino que crece con el pueblo.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -488,29 +488,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "1779 - 1861",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Friedrich Karl von Savigny",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Fráncfort del Meno, Alemania",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "1779 - 1861",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -524,7 +524,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -585,9 +585,9 @@
             {
                 "src": "juristas/06_giuseppe_chiovenda.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -595,7 +595,7 @@
             {
                 "text": "\"El proceso es el instrumento de la justicia.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -604,29 +604,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "1872 - 1937",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Giuseppe Chiovenda",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Premosello, Italia",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "1872 - 1937",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -640,7 +640,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -701,9 +701,9 @@
             {
                 "src": "juristas/07_hans_kelsen.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -711,7 +711,7 @@
             {
                 "text": "\"El derecho es una ordenación normativa del comportamiento humano.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -720,29 +720,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "1881 - 1973",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Hans Kelsen",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Praga, Imperio austrohúngaro",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "1881 - 1973",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -756,7 +756,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -817,9 +817,9 @@
             {
                 "src": "juristas/08_papiniano.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -827,7 +827,7 @@
             {
                 "text": "\"La autoridad del jurista está en la prudencia de su razón.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -836,29 +836,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "c. 142 - 212",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Papiniano",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Imperio Romano",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "c. 142 - 212",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -872,7 +872,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -933,9 +933,9 @@
             {
                 "src": "juristas/09_gayo.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -943,7 +943,7 @@
             {
                 "text": "\"Todo el derecho se refiere a personas, cosas y acciones.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -952,29 +952,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "siglo II d.C.",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Gayo",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Imperio Romano",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "siglo II d.C.",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -988,7 +988,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -1049,9 +1049,9 @@
             {
                 "src": "juristas/10_rudolf_von_ihering.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -1059,7 +1059,7 @@
             {
                 "text": "\"El derecho es una lucha.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -1068,29 +1068,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "1818 - 1892",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Rudolf von Ihering",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Aurich, Alemania",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "1818 - 1892",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -1104,7 +1104,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -1165,9 +1165,9 @@
             {
                 "src": "juristas/11_francesco_carnelutti.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -1175,7 +1175,7 @@
             {
                 "text": "\"El proceso es una forma civilizada de resolver el conflicto.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -1184,29 +1184,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "1879 - 1965",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Francesco Carnelutti",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Udine, Italia",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "1879 - 1965",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -1220,7 +1220,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -1281,9 +1281,9 @@
             {
                 "src": "juristas/12_piero_calamandrei.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -1291,7 +1291,7 @@
             {
                 "text": "\"La justicia necesita jueces independientes y abogados libres.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -1300,29 +1300,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "1889 - 1956",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Piero Calamandrei",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Florencia, Italia",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "1889 - 1956",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -1336,7 +1336,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -1397,9 +1397,9 @@
             {
                 "src": "juristas/13_norberto_bobbio.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -1407,7 +1407,7 @@
             {
                 "text": "\"El problema de nuestro tiempo no es fundamentar los derechos, sino protegerlos.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -1416,29 +1416,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "1909 - 2004",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Norberto Bobbio",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Turín, Italia",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "1909 - 2004",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -1452,7 +1452,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -1513,9 +1513,9 @@
             {
                 "src": "juristas/14_hla_hart.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -1523,7 +1523,7 @@
             {
                 "text": "\"El derecho combina reglas primarias y secundarias.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -1532,29 +1532,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "1907 - 1992",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "H. L. A. Hart",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Harrogate, Reino Unido",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "1907 - 1992",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -1568,7 +1568,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -1629,9 +1629,9 @@
             {
                 "src": "juristas/15_ronald_dworkin.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -1639,7 +1639,7 @@
             {
                 "text": "\"El derecho es una práctica interpretativa.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -1648,29 +1648,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "1931 - 2013",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Ronald Dworkin",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Worcester, Estados Unidos",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "1931 - 2013",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -1684,7 +1684,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -1745,9 +1745,9 @@
             {
                 "src": "juristas/16_robert_alexy.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -1755,7 +1755,7 @@
             {
                 "text": "\"Los principios son mandatos de optimización.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -1764,29 +1764,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "n. 1945",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Robert Alexy",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Oldenburg, Alemania",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "n. 1945",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -1800,7 +1800,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -1861,9 +1861,9 @@
             {
                 "src": "juristas/17_luigi_ferrajoli.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -1871,7 +1871,7 @@
             {
                 "text": "\"El derecho existe para limitar el poder y garantizar la libertad.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -1880,29 +1880,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "n. 1940",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Luigi Ferrajoli",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Florencia, Italia",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "n. 1940",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -1916,7 +1916,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -1977,9 +1977,9 @@
             {
                 "src": "juristas/18_cesare_beccaria.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -1987,7 +1987,7 @@
             {
                 "text": "\"Toda pena que no derive de la absoluta necesidad es tiránica.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -1996,29 +1996,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "1738 - 1794",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Cesare Beccaria",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Milán, Italia",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "1738 - 1794",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -2032,7 +2032,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -2093,9 +2093,9 @@
             {
                 "src": "juristas/19_jeremy_bentham.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -2103,7 +2103,7 @@
             {
                 "text": "\"La mayor felicidad para el mayor número.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -2112,29 +2112,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "1748 - 1832",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Jeremy Bentham",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Londres, Reino Unido",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "1748 - 1832",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -2148,7 +2148,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -2209,9 +2209,9 @@
             {
                 "src": "juristas/20_oliver_wendell_holmes_jr.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -2219,7 +2219,7 @@
             {
                 "text": "\"La vida del derecho no ha sido la lógica, sino la experiencia.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -2228,29 +2228,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "1841 - 1935",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Oliver Wendell Holmes Jr.",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Boston, Estados Unidos",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "1841 - 1935",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -2264,7 +2264,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -2325,9 +2325,9 @@
             {
                 "src": "juristas/21_eduardo_j_couture.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -2335,7 +2335,7 @@
             {
                 "text": "\"El derecho se transforma constantemente; si no sigues sus pasos, serás cada día un poco menos abogado.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -2344,29 +2344,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "1904 - 1956",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Eduardo J. Couture",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Montevideo, Uruguay",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "1904 - 1956",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -2380,7 +2380,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -2441,9 +2441,9 @@
             {
                 "src": "juristas/22_carlos_santiago_nino.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -2451,7 +2451,7 @@
             {
                 "text": "\"La democracia es un procedimiento moral de deliberación pública.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -2460,29 +2460,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "1943 - 1993",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Carlos Santiago Nino",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Buenos Aires, Argentina",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "1943 - 1993",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -2496,7 +2496,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -2557,9 +2557,9 @@
             {
                 "src": "juristas/23_hector_fix_zamudio.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -2567,7 +2567,7 @@
             {
                 "text": "\"La Constitución requiere garantías para hacerse efectiva.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -2576,29 +2576,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "1924 - 2021",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Héctor Fix-Zamudio",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Ciudad de México, México",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "1924 - 2021",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -2612,7 +2612,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -2673,9 +2673,9 @@
             {
                 "src": "juristas/24_andres_bello.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -2683,7 +2683,7 @@
             {
                 "text": "\"La codificación ordena la vida civil de una república.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -2692,29 +2692,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "1781 - 1865",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Andrés Bello",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Caracas, Venezuela / Santiago de Chile",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "1781 - 1865",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -2728,7 +2728,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -2789,9 +2789,9 @@
             {
                 "src": "juristas/25_raul_zaffaroni.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -2799,7 +2799,7 @@
             {
                 "text": "\"El poder punitivo debe ser limitado por el derecho.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -2808,29 +2808,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "n. 1940",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Raúl Zaffaroni",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Buenos Aires, Argentina",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "n. 1940",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -2844,7 +2844,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -2905,9 +2905,9 @@
             {
                 "src": "juristas/26_manuel_atienza.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -2915,7 +2915,7 @@
             {
                 "text": "\"Argumentar es dar razones para justificar una decisión.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -2924,29 +2924,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "n. 1951",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Manuel Atienza",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Oviedo, España",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "n. 1951",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -2960,7 +2960,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
@@ -3021,9 +3021,9 @@
             {
                 "src": "juristas/27_gustav_radbruch.png",
                 "x": 0.5,
-                "y": 0.48,
+                "y": 0.45,
                 "rotation": 0,
-                "scale": 0.28,
+                "scale": 0.3,
                 "border": 0.02
             }
         ],
@@ -3031,7 +3031,7 @@
             {
                 "text": "\"La injusticia extrema no es derecho.\"",
                 "x": 0.5,
-                "y": 0.92,
+                "y": 0.9,
                 "color": "#1a1a2e",
                 "size": 0.03,
                 "fontStyle": "italic",
@@ -3040,29 +3040,29 @@
                 "maxWidth": 0.6
             },
             {
-                "text": "1878 - 1949",
-                "x": 0.5,
-                "y": 0.86,
-                "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
-                "align": "center"
-            },
-            {
                 "text": "Gustav Radbruch",
                 "x": 0.5,
-                "y": 0.34,
+                "y": 0.72,
                 "color": "#0044CC",
-                "size": 0.075,
+                "size": 0.065,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Lübeck, Alemania",
                 "x": 0.5,
-                "y": 0.28,
+                "y": 0.66,
                 "color": "#1a1a2e",
-                "size": 0.04,
+                "size": 0.03,
+                "fontWeight": 600,
+                "align": "center"
+            },
+            {
+                "text": "1878 - 1949",
+                "x": 0.5,
+                "y": 0.6,
+                "color": "#1a1a2e",
+                "size": 0.026,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -3076,7 +3076,7 @@
                 "text": "Obras principales",
                 "x": 0.5,
                 "y": 0.88,
-                "color": "#1a1a2e",
+                "color": "#0044CC",
                 "size": 0.045,
                 "fontWeight": 800,
                 "align": "center"
