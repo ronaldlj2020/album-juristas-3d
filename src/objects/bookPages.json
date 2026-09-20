@@ -35,18 +35,18 @@
             {
                 "text": "Marco Tulio Cicerón",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Arpino, República Romana",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -151,18 +151,18 @@
             {
                 "text": "Ulpiano",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Tiro, provincia de Fenicia, Imperio Romano",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -267,18 +267,18 @@
             {
                 "text": "Montesquieu",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "La Brède, Francia",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -383,18 +383,18 @@
             {
                 "text": "Alexis de Tocqueville",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "París, Francia",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -499,18 +499,18 @@
             {
                 "text": "Friedrich Karl von Savigny",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Fráncfort del Meno, Alemania",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -615,18 +615,18 @@
             {
                 "text": "Giuseppe Chiovenda",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Premosello, Italia",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -731,18 +731,18 @@
             {
                 "text": "Hans Kelsen",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Praga, Imperio austrohúngaro",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -847,18 +847,18 @@
             {
                 "text": "Papiniano",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Imperio Romano",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -963,18 +963,18 @@
             {
                 "text": "Gayo",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Imperio Romano",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -1079,18 +1079,18 @@
             {
                 "text": "Rudolf von Ihering",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Aurich, Alemania",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -1195,18 +1195,18 @@
             {
                 "text": "Francesco Carnelutti",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Udine, Italia",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -1311,18 +1311,18 @@
             {
                 "text": "Piero Calamandrei",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Florencia, Italia",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -1427,18 +1427,18 @@
             {
                 "text": "Norberto Bobbio",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Turín, Italia",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -1543,18 +1543,18 @@
             {
                 "text": "H. L. A. Hart",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Harrogate, Reino Unido",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -1659,18 +1659,18 @@
             {
                 "text": "Ronald Dworkin",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Worcester, Estados Unidos",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -1775,18 +1775,18 @@
             {
                 "text": "Robert Alexy",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Oldenburg, Alemania",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -1891,18 +1891,18 @@
             {
                 "text": "Luigi Ferrajoli",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Florencia, Italia",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -2007,18 +2007,18 @@
             {
                 "text": "Cesare Beccaria",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Milán, Italia",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -2123,18 +2123,18 @@
             {
                 "text": "Jeremy Bentham",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Londres, Reino Unido",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -2239,18 +2239,18 @@
             {
                 "text": "Oliver Wendell Holmes Jr.",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Boston, Estados Unidos",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -2355,18 +2355,18 @@
             {
                 "text": "Eduardo J. Couture",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Montevideo, Uruguay",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -2471,18 +2471,18 @@
             {
                 "text": "Carlos Santiago Nino",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Buenos Aires, Argentina",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -2587,18 +2587,18 @@
             {
                 "text": "Héctor Fix-Zamudio",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Ciudad de México, México",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -2703,18 +2703,18 @@
             {
                 "text": "Andrés Bello",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Caracas, Venezuela / Santiago de Chile",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -2819,18 +2819,18 @@
             {
                 "text": "Raúl Zaffaroni",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Buenos Aires, Argentina",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -2935,18 +2935,18 @@
             {
                 "text": "Manuel Atienza",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Oviedo, España",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }
@@ -3051,18 +3051,18 @@
             {
                 "text": "Gustav Radbruch",
                 "x": 0.5,
-                "y": 0.24,
+                "y": 0.27,
                 "color": "#0044CC",
-                "size": 0.065,
+                "size": 0.075,
                 "fontWeight": 800,
                 "align": "center"
             },
             {
                 "text": "Lübeck, Alemania",
                 "x": 0.5,
-                "y": 0.18,
+                "y": 0.21,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.04,
                 "fontWeight": 600,
                 "align": "center"
             }

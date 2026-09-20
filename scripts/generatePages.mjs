@@ -49,18 +49,18 @@ for (const j of juristas) {
             {
                 text: j.nombre,
                 x: 0.5,
-                y: 0.24,
+                y: 0.27,
                 color: BLUE_PEN,
-                size: 0.065,
+                size: 0.075,
                 fontWeight: 800,
                 align: "center"
             },
             {
                 text: j.lugar,
                 x: 0.5,
-                y: 0.18,
+                y: 0.21,
                 color: BLACK_PEN,
-                size: 0.030,
+                size: 0.040,
                 fontWeight: 600,
                 align: "center"
             }
