@@ -12,16 +12,16 @@ const BLACK_PEN = "#1a1a2e";
 const pages = [];
 
 for (const j of juristas) {
-    // PÁGINA IZQUIERDA: Retrato + frase + nombre + lugar + fechas
+    // PÁGINA IZQUIERDA: Frase arriba, foto centrada, nombre justo debajo
     pages.push({
         label: j.nombre,
         photos: [
             {
-                src: `./album/juristas/${j.imagen}`,
+                src: j.imagen,
                 x: 0.5,
                 y: 0.42,
                 rotation: 0,
-                scale: 0.28,
+                scale: 0.32,
                 border: 0.02
             }
         ],
@@ -29,18 +29,18 @@ for (const j of juristas) {
             {
                 text: `"${j.frase}"`,
                 x: 0.5,
-                y: 0.85,
+                y: 0.88,
                 color: BLACK_PEN,
                 size: 0.032,
                 fontStyle: "italic",
                 fontWeight: 700,
                 align: "center",
-                maxWidth: 0.65
+                maxWidth: 0.60
             },
             {
                 text: j.nombre,
                 x: 0.5,
-                y: 0.12,
+                y: 0.72,
                 color: BLUE_PEN,
                 size: 0.065,
                 fontWeight: 800,
@@ -49,7 +49,7 @@ for (const j of juristas) {
             {
                 text: j.lugar,
                 x: 0.5,
-                y: 0.06,
+                y: 0.66,
                 color: BLACK_PEN,
                 size: 0.030,
                 fontWeight: 600,
@@ -58,7 +58,7 @@ for (const j of juristas) {
             {
                 text: j.fechas,
                 x: 0.5,
-                y: 0.02,
+                y: 0.60,
                 color: BLACK_PEN,
                 size: 0.026,
                 fontWeight: 600,
@@ -67,7 +67,7 @@ for (const j of juristas) {
         ]
     });
 
-    // PÁGINA DERECHA: Obras (negro), Aportes (azul/negro), Resumen (azul/negro)
+    // PÁGINA DERECHA: Obras, Aportes, Resumen
     pages.push({
         label: j.nombre + " - Aportes",
         photos: [],
@@ -75,59 +75,59 @@ for (const j of juristas) {
             {
                 text: "Obras principales",
                 x: 0.5,
-                y: 0.85,
+                y: 0.88,
                 color: BLACK_PEN,
-                size: 0.050,
+                size: 0.045,
                 fontWeight: 800,
                 align: "center"
             },
             {
                 text: j.obras.join('  •  '),
                 x: 0.5,
-                y: 0.75,
+                y: 0.80,
                 color: BLACK_PEN,
-                size: 0.030,
+                size: 0.028,
                 fontWeight: 600,
                 align: "center",
-                maxWidth: 0.65
+                maxWidth: 0.60
             },
             {
                 text: "Aportes clave",
                 x: 0.5,
-                y: 0.58,
-                color: BLUE_PEN,
-                size: 0.048,
-                fontWeight: 800,
-                align: "center"
-            },
-            {
-                text: j.aportes.join('  •  '),
-                x: 0.5,
-                y: 0.46,
-                color: BLACK_PEN,
-                size: 0.030,
-                fontWeight: 600,
-                align: "center",
-                maxWidth: 0.65
-            },
-            {
-                text: "Resumen",
-                x: 0.5,
-                y: 0.32,
+                y: 0.65,
                 color: BLUE_PEN,
                 size: 0.042,
                 fontWeight: 800,
                 align: "center"
             },
             {
-                text: j.resumen,
+                text: j.aportes.join('  •  '),
                 x: 0.5,
-                y: 0.20,
+                y: 0.55,
                 color: BLACK_PEN,
-                size: 0.028,
+                size: 0.026,
                 fontWeight: 600,
                 align: "center",
-                maxWidth: 0.65
+                maxWidth: 0.60
+            },
+            {
+                text: "Resumen",
+                x: 0.5,
+                y: 0.40,
+                color: BLUE_PEN,
+                size: 0.040,
+                fontWeight: 800,
+                align: "center"
+            },
+            {
+                text: j.resumen,
+                x: 0.5,
+                y: 0.28,
+                color: BLACK_PEN,
+                size: 0.024,
+                fontWeight: 600,
+                align: "center",
+                maxWidth: 0.60
             }
         ]
     });
@@ -135,5 +135,3 @@ for (const j of juristas) {
 
 writeFileSync(join(__dirname, '../src/objects/bookPages.json'), JSON.stringify(pages, null, 4));
 console.log(`Generado bookPages.json con ${pages.length} páginas (${juristas.length} juristas)`);
-console.log('Diseño actualizado: frase negro arriba, nombre azul abajo, lugar y fechas negro');
-console.log('Página derecha: obras negro, aportes azul/negro, resumen azul/negro');

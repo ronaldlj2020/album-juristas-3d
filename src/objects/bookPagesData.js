@@ -1,6 +1,6 @@
 import pages from "./bookPages.json";
 
-const album = (name) => `./album/${encodeURIComponent(name.normalize("NFD"))}`;
+const album = (name) => `/album/${encodeURI(name.normalize("NFD"))}`;
 
 const captionDefaults = {
     size: 0.04,
