@@ -72,9 +72,9 @@ for (const j of juristas) {
             {
                 text: "Obras principales",
                 x: 0.5,
-                y: 0.90,
+                y: 0.91,
                 color: BLUE_PEN,
-                size: 0.049,
+                size: 0.048,
                 fontWeight: 800,
                 align: "center"
             },
@@ -93,7 +93,7 @@ for (const j of juristas) {
                 x: 0.5,
                 y: 0.67,
                 color: BLUE_PEN,
-                size: 0.046,
+                size: 0.045,
                 fontWeight: 800,
                 align: "center"
             },
@@ -112,7 +112,7 @@ for (const j of juristas) {
                 x: 0.5,
                 y: 0.42,
                 color: BLUE_PEN,
-                size: 0.044,
+                size: 0.043,
                 fontWeight: 800,
                 align: "center"
             },
