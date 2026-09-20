@@ -5,23 +5,21 @@ import { dirname, join } from 'path';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const juristas = JSON.parse(readFileSync(join(__dirname, '../data/juristas/juristas.json'), 'utf8'));
 
-// Colores de lapicero
 const BLUE_PEN = "#0044CC";
 const BLACK_PEN = "#1a1a2e";
 
 const pages = [];
 
 for (const j of juristas) {
-    // PÁGINA IZQUIERDA: Frase arriba, foto centrada, nombre justo debajo
     pages.push({
         label: j.nombre,
         photos: [
             {
                 src: j.imagen,
                 x: 0.5,
-                y: 0.45,
+                y: 0.48,
                 rotation: 0,
-                scale: 0.30,
+                scale: 0.28,
                 border: 0.02
             }
         ],
@@ -31,7 +29,7 @@ for (const j of juristas) {
                 x: 0.5,
                 y: 0.90,
                 color: BLACK_PEN,
-                size: 0.030,
+                size: 0.032,
                 fontStyle: "italic",
                 fontWeight: 700,
                 align: "center",
@@ -58,16 +56,15 @@ for (const j of juristas) {
             {
                 text: j.fechas,
                 x: 0.5,
-                y: 0.60,
+                y: 0.58,
                 color: BLACK_PEN,
-                size: 0.026,
-                fontWeight: 600,
+                size: 0.030,
+                fontWeight: 700,
                 align: "center"
             }
         ]
     });
 
-    // PÁGINA DERECHA: Obras, Aportes, Resumen (orden correcto)
     pages.push({
         label: j.nombre + " - Aportes",
         photos: [],
@@ -77,7 +74,7 @@ for (const j of juristas) {
                 x: 0.5,
                 y: 0.88,
                 color: BLUE_PEN,
-                size: 0.045,
+                size: 0.055,
                 fontWeight: 800,
                 align: "center"
             },
@@ -86,7 +83,7 @@ for (const j of juristas) {
                 x: 0.5,
                 y: 0.80,
                 color: BLACK_PEN,
-                size: 0.028,
+                size: 0.038,
                 fontWeight: 600,
                 align: "center",
                 maxWidth: 0.60
@@ -96,7 +93,7 @@ for (const j of juristas) {
                 x: 0.5,
                 y: 0.65,
                 color: BLUE_PEN,
-                size: 0.042,
+                size: 0.052,
                 fontWeight: 800,
                 align: "center"
             },
@@ -105,7 +102,7 @@ for (const j of juristas) {
                 x: 0.5,
                 y: 0.55,
                 color: BLACK_PEN,
-                size: 0.026,
+                size: 0.036,
                 fontWeight: 600,
                 align: "center",
                 maxWidth: 0.60
@@ -115,7 +112,7 @@ for (const j of juristas) {
                 x: 0.5,
                 y: 0.40,
                 color: BLUE_PEN,
-                size: 0.040,
+                size: 0.050,
                 fontWeight: 800,
                 align: "center"
             },
@@ -124,7 +121,7 @@ for (const j of juristas) {
                 x: 0.5,
                 y: 0.28,
                 color: BLACK_PEN,
-                size: 0.024,
+                size: 0.034,
                 fontWeight: 600,
                 align: "center",
                 maxWidth: 0.60
@@ -134,4 +131,4 @@ for (const j of juristas) {
 }
 
 writeFileSync(join(__dirname, '../src/objects/bookPages.json'), JSON.stringify(pages, null, 4));
-console.log(`Generado bookPages.json con ${pages.length} páginas (${juristas.length} juristas)`);
+console.log(`Generado bookPages.json con ${pages.length} páginas`);

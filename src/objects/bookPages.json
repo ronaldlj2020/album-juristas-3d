@@ -5,9 +5,9 @@
             {
                 "src": "juristas/01_marco_tulio_ciceron.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -17,7 +17,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -44,10 +44,10 @@
             {
                 "text": "106 a.C. - 43 a.C.",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -61,7 +61,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -70,7 +70,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -80,7 +80,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -89,7 +89,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -99,7 +99,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -108,7 +108,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -121,9 +121,9 @@
             {
                 "src": "juristas/02_ulpiano.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -133,7 +133,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -160,10 +160,10 @@
             {
                 "text": "c. 170 - 228",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -177,7 +177,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -186,7 +186,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -196,7 +196,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -205,7 +205,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -215,7 +215,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -224,7 +224,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -237,9 +237,9 @@
             {
                 "src": "juristas/03_montesquieu.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -249,7 +249,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -276,10 +276,10 @@
             {
                 "text": "1689 - 1755",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -293,7 +293,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -302,7 +302,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -312,7 +312,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -321,7 +321,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -331,7 +331,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -340,7 +340,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -353,9 +353,9 @@
             {
                 "src": "juristas/04_alexis_de_tocqueville.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -365,7 +365,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -392,10 +392,10 @@
             {
                 "text": "1805 - 1859",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -409,7 +409,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -418,7 +418,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -428,7 +428,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -437,7 +437,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -447,7 +447,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -456,7 +456,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -469,9 +469,9 @@
             {
                 "src": "juristas/05_friedrich_karl_von_savigny.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -481,7 +481,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -508,10 +508,10 @@
             {
                 "text": "1779 - 1861",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -525,7 +525,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -534,7 +534,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -544,7 +544,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -553,7 +553,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -563,7 +563,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -572,7 +572,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -585,9 +585,9 @@
             {
                 "src": "juristas/06_giuseppe_chiovenda.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -597,7 +597,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -624,10 +624,10 @@
             {
                 "text": "1872 - 1937",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -641,7 +641,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -650,7 +650,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -660,7 +660,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -669,7 +669,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -679,7 +679,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -688,7 +688,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -701,9 +701,9 @@
             {
                 "src": "juristas/07_hans_kelsen.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -713,7 +713,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -740,10 +740,10 @@
             {
                 "text": "1881 - 1973",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -757,7 +757,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -766,7 +766,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -776,7 +776,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -785,7 +785,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -795,7 +795,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -804,7 +804,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -817,9 +817,9 @@
             {
                 "src": "juristas/08_papiniano.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -829,7 +829,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -856,10 +856,10 @@
             {
                 "text": "c. 142 - 212",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -873,7 +873,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -882,7 +882,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -892,7 +892,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -901,7 +901,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -911,7 +911,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -920,7 +920,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -933,9 +933,9 @@
             {
                 "src": "juristas/09_gayo.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -945,7 +945,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -972,10 +972,10 @@
             {
                 "text": "siglo II d.C.",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -989,7 +989,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -998,7 +998,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1008,7 +1008,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1017,7 +1017,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1027,7 +1027,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1036,7 +1036,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1049,9 +1049,9 @@
             {
                 "src": "juristas/10_rudolf_von_ihering.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -1061,7 +1061,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -1088,10 +1088,10 @@
             {
                 "text": "1818 - 1892",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -1105,7 +1105,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1114,7 +1114,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1124,7 +1124,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1133,7 +1133,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1143,7 +1143,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1152,7 +1152,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1165,9 +1165,9 @@
             {
                 "src": "juristas/11_francesco_carnelutti.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -1177,7 +1177,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -1204,10 +1204,10 @@
             {
                 "text": "1879 - 1965",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -1221,7 +1221,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1230,7 +1230,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1240,7 +1240,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1249,7 +1249,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1259,7 +1259,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1268,7 +1268,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1281,9 +1281,9 @@
             {
                 "src": "juristas/12_piero_calamandrei.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -1293,7 +1293,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -1320,10 +1320,10 @@
             {
                 "text": "1889 - 1956",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -1337,7 +1337,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1346,7 +1346,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1356,7 +1356,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1365,7 +1365,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1375,7 +1375,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1384,7 +1384,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1397,9 +1397,9 @@
             {
                 "src": "juristas/13_norberto_bobbio.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -1409,7 +1409,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -1436,10 +1436,10 @@
             {
                 "text": "1909 - 2004",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -1453,7 +1453,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1462,7 +1462,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1472,7 +1472,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1481,7 +1481,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1491,7 +1491,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1500,7 +1500,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1513,9 +1513,9 @@
             {
                 "src": "juristas/14_hla_hart.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -1525,7 +1525,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -1552,10 +1552,10 @@
             {
                 "text": "1907 - 1992",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -1569,7 +1569,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1578,7 +1578,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1588,7 +1588,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1597,7 +1597,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1607,7 +1607,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1616,7 +1616,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1629,9 +1629,9 @@
             {
                 "src": "juristas/15_ronald_dworkin.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -1641,7 +1641,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -1668,10 +1668,10 @@
             {
                 "text": "1931 - 2013",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -1685,7 +1685,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1694,7 +1694,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1704,7 +1704,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1713,7 +1713,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1723,7 +1723,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1732,7 +1732,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1745,9 +1745,9 @@
             {
                 "src": "juristas/16_robert_alexy.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -1757,7 +1757,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -1784,10 +1784,10 @@
             {
                 "text": "n. 1945",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -1801,7 +1801,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1810,7 +1810,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1820,7 +1820,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1829,7 +1829,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1839,7 +1839,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1848,7 +1848,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1861,9 +1861,9 @@
             {
                 "src": "juristas/17_luigi_ferrajoli.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -1873,7 +1873,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -1900,10 +1900,10 @@
             {
                 "text": "n. 1940",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -1917,7 +1917,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1926,7 +1926,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1936,7 +1936,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1945,7 +1945,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1955,7 +1955,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -1964,7 +1964,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -1977,9 +1977,9 @@
             {
                 "src": "juristas/18_cesare_beccaria.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -1989,7 +1989,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -2016,10 +2016,10 @@
             {
                 "text": "1738 - 1794",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -2033,7 +2033,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2042,7 +2042,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2052,7 +2052,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2061,7 +2061,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2071,7 +2071,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2080,7 +2080,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2093,9 +2093,9 @@
             {
                 "src": "juristas/19_jeremy_bentham.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -2105,7 +2105,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -2132,10 +2132,10 @@
             {
                 "text": "1748 - 1832",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -2149,7 +2149,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2158,7 +2158,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2168,7 +2168,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2177,7 +2177,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2187,7 +2187,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2196,7 +2196,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2209,9 +2209,9 @@
             {
                 "src": "juristas/20_oliver_wendell_holmes_jr.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -2221,7 +2221,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -2248,10 +2248,10 @@
             {
                 "text": "1841 - 1935",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -2265,7 +2265,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2274,7 +2274,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2284,7 +2284,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2293,7 +2293,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2303,7 +2303,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2312,7 +2312,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2325,9 +2325,9 @@
             {
                 "src": "juristas/21_eduardo_j_couture.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -2337,7 +2337,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -2364,10 +2364,10 @@
             {
                 "text": "1904 - 1956",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -2381,7 +2381,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2390,7 +2390,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2400,7 +2400,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2409,7 +2409,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2419,7 +2419,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2428,7 +2428,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2441,9 +2441,9 @@
             {
                 "src": "juristas/22_carlos_santiago_nino.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -2453,7 +2453,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -2480,10 +2480,10 @@
             {
                 "text": "1943 - 1993",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -2497,7 +2497,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2506,7 +2506,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2516,7 +2516,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2525,7 +2525,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2535,7 +2535,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2544,7 +2544,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2557,9 +2557,9 @@
             {
                 "src": "juristas/23_hector_fix_zamudio.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -2569,7 +2569,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -2596,10 +2596,10 @@
             {
                 "text": "1924 - 2021",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -2613,7 +2613,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2622,7 +2622,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2632,7 +2632,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2641,7 +2641,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2651,7 +2651,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2660,7 +2660,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2673,9 +2673,9 @@
             {
                 "src": "juristas/24_andres_bello.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -2685,7 +2685,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -2712,10 +2712,10 @@
             {
                 "text": "1781 - 1865",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -2729,7 +2729,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2738,7 +2738,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2748,7 +2748,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2757,7 +2757,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2767,7 +2767,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2776,7 +2776,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2789,9 +2789,9 @@
             {
                 "src": "juristas/25_raul_zaffaroni.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -2801,7 +2801,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -2828,10 +2828,10 @@
             {
                 "text": "n. 1940",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -2845,7 +2845,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2854,7 +2854,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2864,7 +2864,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2873,7 +2873,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2883,7 +2883,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2892,7 +2892,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2905,9 +2905,9 @@
             {
                 "src": "juristas/26_manuel_atienza.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -2917,7 +2917,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -2944,10 +2944,10 @@
             {
                 "text": "n. 1951",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -2961,7 +2961,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2970,7 +2970,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2980,7 +2980,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -2989,7 +2989,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -2999,7 +2999,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -3008,7 +3008,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -3021,9 +3021,9 @@
             {
                 "src": "juristas/27_gustav_radbruch.png",
                 "x": 0.5,
-                "y": 0.45,
+                "y": 0.48,
                 "rotation": 0,
-                "scale": 0.3,
+                "scale": 0.28,
                 "border": 0.02
             }
         ],
@@ -3033,7 +3033,7 @@
                 "x": 0.5,
                 "y": 0.9,
                 "color": "#1a1a2e",
-                "size": 0.03,
+                "size": 0.032,
                 "fontStyle": "italic",
                 "fontWeight": 700,
                 "align": "center",
@@ -3060,10 +3060,10 @@
             {
                 "text": "1878 - 1949",
                 "x": 0.5,
-                "y": 0.6,
+                "y": 0.58,
                 "color": "#1a1a2e",
-                "size": 0.026,
-                "fontWeight": 600,
+                "size": 0.03,
+                "fontWeight": 700,
                 "align": "center"
             }
         ]
@@ -3077,7 +3077,7 @@
                 "x": 0.5,
                 "y": 0.88,
                 "color": "#0044CC",
-                "size": 0.045,
+                "size": 0.055,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -3086,7 +3086,7 @@
                 "x": 0.5,
                 "y": 0.8,
                 "color": "#1a1a2e",
-                "size": 0.028,
+                "size": 0.038,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -3096,7 +3096,7 @@
                 "x": 0.5,
                 "y": 0.65,
                 "color": "#0044CC",
-                "size": 0.042,
+                "size": 0.052,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -3105,7 +3105,7 @@
                 "x": 0.5,
                 "y": 0.55,
                 "color": "#1a1a2e",
-                "size": 0.026,
+                "size": 0.036,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
@@ -3115,7 +3115,7 @@
                 "x": 0.5,
                 "y": 0.4,
                 "color": "#0044CC",
-                "size": 0.04,
+                "size": 0.05,
                 "fontWeight": 800,
                 "align": "center"
             },
@@ -3124,7 +3124,7 @@
                 "x": 0.5,
                 "y": 0.28,
                 "color": "#1a1a2e",
-                "size": 0.024,
+                "size": 0.034,
                 "fontWeight": 600,
                 "align": "center",
                 "maxWidth": 0.6
