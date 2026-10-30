@@ -76,8 +76,9 @@ juristas-album/
 
 - **Clic en el álbum** → Enfocar el libro
 - **Clic en página** → Reproducir video (si tiene)
-- **Flechas ← →** → Pasar páginas
-- **"Back to desk"** → Volver a la vista del escritorio
+- **Clic en las flechas junto a las páginas** → Pasar páginas (las flechas del teclado no están implementadas)
+- **Botón ↶ (arriba a la izquierda)** → Volver a la vista del escritorio
+- **Esc** → Cerrar la ventana de créditos
 - **Globe** → Arrastrar para girar
 
 ## Créditos

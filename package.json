@@ -5,7 +5,8 @@
     "type": "module",
     "scripts": {
         "dev": "vite",
-        "build": "vite build"
+        "build": "vite build",
+        "build:web": "node scripts/buildWeb.mjs"
     },
     "devDependencies": {
         "@eslint/js": "^9.39.2",
@@ -13,6 +14,7 @@
         "eslint": "^9.39.2",
         "eslint-plugin-react": "^7.37.5",
         "globals": "^17.1.0",
+        "sharp": "^0.35.5",
         "vite": "^7.3.0",
         "vite-plugin-glsl": "^1.5.5",
         "vite-plugin-restart": "^2.0.0"
