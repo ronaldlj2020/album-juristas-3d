@@ -3,9 +3,12 @@ import { transformWithEsbuild } from "vite";
 import restart from "vite-plugin-restart";
 import glsl from "vite-plugin-glsl";
 
+const WEB = process.env.VITE_WEB === "1";
+
 export default {
     root: "src/",
-    publicDir: "../public/",
+    base: WEB ? "./" : "/",
+    publicDir: WEB ? "../.web-public/" : "../public/",
     plugins: [
         // Restart server on static/public file change
         restart({ restart: ["../public/**"] }),
@@ -36,8 +39,8 @@ export default {
         ), // Open if it's not a CodeSandbox
     },
     build: {
-        outDir: "../dist", // Output in the dist/ folder
+        outDir: WEB ? "../dist-web" : "../dist", // Output in the dist/ folder
         emptyOutDir: true, // Empty the folder first
-        sourcemap: true, // Add sourcemap
+        sourcemap: !WEB, // Add sourcemap
     },
 };
